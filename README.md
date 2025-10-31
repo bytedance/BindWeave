@@ -48,7 +48,7 @@ It achieves cross-modal integration via entity grounding and representation alig
 
 ## Project Workflow and Branching
 This project is organized into a multi-branch structure to ensure that each major workflow—feature extraction, training, and inference—is independent and self-contained. This design prevents conflicts between dependencies and submodule versions, reduces memory overhead, and creates a clean and stable environment for each task.
-The `master` branch serves as the main entry point and contains this primary README. To begin working, please switch to the branch that corresponds to your goal.
+The `main` branch serves as the main entry point and contains this primary README. To begin working, please switch to the branch that corresponds to your goal.
 | Branch                 | Purpose                                                                | Command to Switch          |
 | ---------------------- | ---------------------------------------------------------------------- | -------------------------- |
 | `feature_extraction`   | Pre-computing features required for training and inference.            | `git switch feature_extraction` |

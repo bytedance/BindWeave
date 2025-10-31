@@ -1,0 +1,37 @@
+{
+    "load_video_features": true,
+    "load_text_features": true,
+    "task": "i2v",
+    "diffusion": {
+        "model_id": "wan_flow_match_scheduler",
+        "num_train_timesteps": 1000,
+        "shift": 5,
+        "sigma_min": 0.0,
+        "extra_one_step": true
+    },
+    "predictor": {
+        "model_id": "wan_s2v_dit",
+        "dtype": "bf16",
+        "model_type": "i2v",
+        "patch_size": [1, 2, 2],
+        "text_len": 512,
+        "in_dim": 36,
+        "hidden_size": 5120,
+        "ffn_dim": 13824,
+        "freq_dim": 256,
+        "text_dim": 4096,
+        "img_dim": 1280,
+        "out_dim": 16,
+        "num_heads": 40,
+        "num_layers": 40,
+        "pipeline_num_layers": [10,10,10,10],
+        "qk_norm": true,
+        "qk_norm_type": "rmsnorm",
+        "cross_attn_norm": true,
+        "eps": 1e-6,
+        "max_seq_len": 1024,
+        "attention_async_offload": false,
+        "clip_token_len": 257,
+        "use_fused_rmsnorm":true
+    }
+}

@@ -1,0 +1,62 @@
+[project]
+name = "mindspeed-mm"
+version = "0.1"
+requires-python = ">=3.8"
+description = "MindSpeed-MM is designed to provide end-to-end large multi-modal model solutions for Huawei's Ascend chips, including models, algorithms, and downstream tasks."
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [
+  { name = "The MindSpeed-MM Team" },
+]
+keywords = ["AI", "Ascend", "DeepLearning", "MultiModal", "MindSpeed"]
+dependencies = [
+    "numpy",
+    "av",
+    "ftfy",
+    "bs4",
+    "beartype",
+    "timm==1.0.8",
+    "pandas==2.0.3",
+    "transformers==4.45.0",
+    "accelerate==0.32.1",
+    "pandarallel",
+    "datasets",
+    "qwen_vl_utils",
+    "imageio",
+    "imageio-ffmpeg",
+    "peft==0.7.1",
+    "pydantic>=2.10.4",
+    "jsonargparse[all]>=4.40.0",
+    "gpytorch"
+]
+
+[build-system]
+requires = ["setuptools >= 65.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+exclude = ["ci*", "docs", "sources", "tests*"]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+    "transformers[sentencepiece]",
+]
+
+
+evaluate = [
+    "portalocker==2.8.2",
+    "rich==13.7.1",
+    "xlsxwriter==3.2.0",
+    "openpyxl==3.1.5"
+]
+
+lint = [
+    "black",
+]
+
+[project.scripts]
+mm-convert = "checkpoint.convert_cli:main"

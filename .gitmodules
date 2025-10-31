@@ -1,0 +1,9 @@
+[submodule "Megatron-LM"]
+	path = Megatron-LM
+	url = https://github.com/NVIDIA/Megatron-LM.git
+[submodule "MindSpeed"]
+	path = MindSpeed
+	url = https://gitee.com/ascend/MindSpeed.git
+[submodule "MindSpeed-MM"]
+	path = MindSpeed-MM
+	url = https://gitee.com/ascend/MindSpeed-MM.git

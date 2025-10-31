@@ -1,0 +1,47 @@
+{
+    "dataset_param": {
+        "dataset_type": "feature",
+        "basic_parameters": {
+            "data_path": "data.jsonl",
+            "data_folder": "data_folder"
+        },
+        "preprocess_parameters": {
+            "video_processor_type": "OpensoraplanVideoProcessor",
+            "video_reader_type": "DecordVideo",
+            "image_reader_type": "Image",
+            "num_frames": 81,
+            "frame_interval": 1,
+            "max_height": 720,
+            "max_width": 1280,
+            "max_hxw": 921600,
+            "train_fps": 24,
+            "speed_factor": 1.0,
+            "drop_short_ratio": 0.0,
+            "cfg": 0.0,
+            "hw_stride": 8,
+            "force_resolution": false,
+            "hw_aspect_thr": 2.0
+        },
+        "use_text_processer": false,
+        "enable_text_preprocessing": false,
+        "tokenizer_config": [
+            {
+                "autotokenizer_name": "AutoTokenizer",
+                "hub_backend": "hf",
+                "from_pretrained": "Wan2.1-I2V-14B-Diffusers/tokenizer",
+                "model_max_length": 512
+            }
+        ]
+    },
+    "dataloader_param": {
+        "dataloader_mode": "sampler",
+        "sampler_type": "LengthGroupedSampler",
+        "shuffle": true,
+        "drop_last": true,
+        "pin_memory": true,
+        "group_frame": false,
+        "group_resolution": false,
+        "group_data": true,
+        "initial_global_step_for_sampler": 0
+    }
+}

@@ -1,0 +1,109 @@
+# =========================================
+# General
+# =========================================
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+# it's better to push a requirements.txt file instead
+*.egg
+*.egg-info
+dist
+build
+
+# =========================================
+# Operating System Files
+# =========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================================
+# Python
+# =========================================
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Python virtualenv
+# Usually, you don't want to commit your virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# =========================================
+# IDEs and Editors
+# =========================================
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# =========================================
+# Data & Logs
+# =========================================
+# It's better to store large data files elsewhere (e.g., Git LFS or cloud storage)
+*.csv
+*.dat
+*.log
+*.xml
+*.json
+# If you have specific data files you DO want to track, remove the line above
+# or use negation, e.g., !my_important_data.json
+
+# =========================================
+# Other
+# =========================================
+# dotenv
+.env
+

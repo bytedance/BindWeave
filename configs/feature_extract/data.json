@@ -1,0 +1,128 @@
+{
+    "dataset_param": {
+        "dataset_type": "t2v",
+        "use_feature_data": false,
+        "basic_parameters": {
+            "data_path": "data.txt",
+            "data_storage_mode": "combine"
+        },
+        "preprocess_parameters": {
+            "video_reader_type": "decoder",
+            "image_reader_type": "Image",
+            "num_frames": 81,
+            "min_num_frames": 1,
+            "frame_interval": 1,
+            "auto_interval": false,
+            "max_height": 720,
+            "max_width": 1280,
+            "max_hxw": 921600,
+            "train_fps": 24,
+            "speed_factor": 1.0,
+            "drop_short_ratio": 1.0,
+            "cfg": 0.0,
+            "hw_stride": 8,
+            "force_resolution": false,
+            "dataloader_num_workers": 8,
+            "hw_aspect_thr": 5.0,
+            "train_pipeline": {
+                "video_and_first_frame": [
+                    {
+                        "trans_type": "ResizeVideo",
+                        "param": {
+                            "transform_size": "auto",
+                            "interpolation_mode": "bilinear",
+                            "antialias": true,
+                            "mode": "shortside"
+                        }
+                    },
+                    {
+                        "trans_type": "ToTensorVideo"
+                    }
+                ],
+                "video_only": [
+                    {
+                        "trans_type": "CenterCropResizeVideo",
+                        "param": {
+                            "use_short_edge": false,
+							"top_crop": false,
+							"align_corners": false,
+							"antialias": true,
+							"transform_size": "auto"
+                        }
+                    },
+                    {
+                        "trans_type": "norm_fun",
+                        "param": {
+                            "mean": 0.5,
+                            "std": 0.5
+                        }
+                    }
+                ],
+                "first_frame_clip": [
+                    {
+                        "trans_type": "ResizeVideo",
+                        "param": {
+                            "transform_size": {
+                                "max_height": 224,
+                                "max_width": 224
+                            },
+                            "mode": "resize",
+                            "interpolation_mode": "bicubic",
+                            "align_corners": false,
+                            "antialias": false
+                        }
+                    },
+                    {
+                        "trans_type": "norm_fun",
+                        "param": {
+                            "mean": [0.48145466, 0.4578275, 0.40821073],
+                            "std": [0.26862954, 0.26130258, 0.27577711]
+                        }
+                    }
+                ],
+                "first_frame_vae": [
+                    {
+                        "trans_type": "ResizeVideo",
+                        "param": {
+                            "transform_size": "auto",
+                            "mode": "resize",
+                            "interpolation_mode": "bilinear",
+                            "align_corners": false,
+                            "antialias": false
+                        }
+                    },
+                    {
+                        "trans_type": "norm_fun",
+                        "param": {
+                            "mean": 0.5,
+                            "std": 0.5
+                        }
+                    }
+                ]
+            }
+        },
+        "use_text_processer": true,
+        "enable_text_preprocessing": true,
+        "text_preprocess_methods":{
+            "method": "whitespace_clean"
+        },
+        "tokenizer_config": 
+        {
+            "autotokenizer_name": "AutoTokenizer",
+            "hub_backend": "hf",
+            "from_pretrained": "pretrained_model/wanx/Wan2.1-I2V-14B-720P-Diffusers/tokenizer",
+            "model_max_length": 512
+        }
+    },
+    "dataloader_param": {
+        "dataloader_mode": "sampler",
+        "sampler_type": "LengthGroupedSampler",
+        "shuffle": false,
+        "drop_last": false,
+        "pin_memory": true,
+        "group_frame": false,
+        "group_resolution": false,
+        "group_data": true,
+        "initial_global_step_for_sampler": 0
+    }
+}

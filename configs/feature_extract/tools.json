@@ -1,0 +1,9 @@
+{
+    "sorafeature": {
+        "extract_video_feature": true,
+        "extract_text_feature": true,
+        "save_path": "your_save_path",
+        "data_storage_mode": "sorafeatured"
+    },
+    "task": "i2v"
+}

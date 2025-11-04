@@ -41,6 +41,12 @@
 <img src="assets/figure1.png" width=95%>
 <p>
 
+## 🗓️ Todo List
+
+- [✅] Release inference code
+- [✅] Release checkpoint of BindWeave_Wan_14B
+- [✅] Release training code of BindWeave
+
 
 ## 📖 Overview
 BindWeave is a unified subject-consistent video generation framework for single- and multi-subject prompts, built on an MLLM-DiT architecture that couples a pretrained multimodal large language model with a diffusion transformer.

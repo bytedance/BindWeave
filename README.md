@@ -73,6 +73,17 @@ Then download the BindWeave model:
 ```bash
 huggingface-cli download ByteDance/BindWeave --local-dir ./BindWeave
 ```
+
+#### Weight Conversion
+After downloading the BindWeave model, you need to convert the transformer weights to the MM format. Run the conversion script as follows:
+```
+python convert_ckpt.py \
+  --source_path ./BindWeave \
+  --target_path ./BindWeave \
+  --mode convert_to_mm
+```
+
+
 Run Subject-to-Video Generation
 ```bash
 bash script/inference_s2v.sh

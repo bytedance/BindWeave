@@ -34,12 +34,15 @@ import stat
 import sys
 from pathlib import Path
 from typing import Any, Dict, List
+
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'MindSpeed-MM')))
+
 import mindspeed.megatron_adaptor
 import torch
 from safetensors.torch import load_file as safe_load
 from checkpoint.vlm_model.mm_to_hf import save_by_index_json, copy_files_except_suffix
 from checkpoint.vlm_model.hf_to_mm import load_from_hf
+
 
 DIT_CONVERSION_MAPPING = {
     "condition_embedder.text_embedder.linear_1.bias": "text_embedding.linear_1.bias",

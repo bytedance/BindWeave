@@ -44,7 +44,7 @@
 ## 🗓️ Todo List
 
 - [x] Release inference code
-- [x] Release checkpoint of BindWeave_Wan_14B ([🤗 Huggingface](https://huggingface.co/ByteDance/Sa2VA-1B))
+- [x] Release checkpoint of BindWeave_Wan_14B ([🤗 Huggingface](https://huggingface.co/ByteDance/BindWeave))
 - [x] Release training code of BindWeave
 
 

@@ -78,8 +78,8 @@ huggingface-cli download ByteDance/BindWeave --local-dir ./BindWeave
 After downloading the BindWeave model, you need to convert the transformer weights to the MM format. Run the conversion script as follows:
 ```
 python convert_ckpt.py \
-  --source_path ./BindWeave \
-  --target_path ./BindWeave \
+  --source_path ./BindWeave/ \
+  --target_path ./BindWeave/ \
   --mode convert_to_mm
 ```
 

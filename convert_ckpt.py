@@ -26,15 +26,15 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-
 import argparse
 import json
 import os
 import shutil
 import stat
+import sys
 from pathlib import Path
 from typing import Any, Dict, List
-
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'MindSpeed-MM')))
 import mindspeed.megatron_adaptor
 import torch
 from safetensors.torch import load_file as safe_load

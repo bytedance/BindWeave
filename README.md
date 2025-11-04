@@ -62,7 +62,10 @@ The `main` branch serves as the main entry point and contains this primary READM
 | `infer`                | Running inference with a pre-trained model.                            | `git switch infer`         |
 After switching, please consult the `README.md` file within that branch for detailed instructions.
 
-###  OpenS2V-Eval Performance 🏆
+## 🎥 Demo
+
+
+##  OpenS2V-Eval Performance 🏆
 BindWeave achieves a solid score of 57.61 on the [OpenS2V-Eval](https://huggingface.co/spaces/BestWishYsh/OpenS2V-Eval) benchmark, highlighting its robust capabilities across multiple evaluation dimensions and demonstrating competitive performance against several leading open-source and commercial systems.
 
 | Model | TotalScore↑ | AestheticScore↑ | MotionSmoothness↑ | MotionAmplitude↑ | FaceSim↑ | GmeScore↑ | NexusScore↑ | NaturalScore↑ |

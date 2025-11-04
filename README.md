@@ -44,7 +44,7 @@
 ## 🗓️ Todo List
 
 - [x] Release inference code
-- [x] Release checkpoint of BindWeave_Wan_14B
+- [x] Release checkpoint of BindWeave_Wan_14B ([🤗 Huggingface](https://huggingface.co/ByteDance/Sa2VA-1B))
 - [x] Release training code of BindWeave
 
 
@@ -63,7 +63,7 @@ The `main` branch serves as the main entry point and contains this primary READM
 After switching, please consult the `README.md` file within that branch for detailed instructions.
 
 ## 🎥 Demo
-
+![BindWeave Video Generation Demo](assets/bindweave_demo.gif)
 
 ##  OpenS2V-Eval Performance 🏆
 BindWeave achieves a solid score of 57.61 on the [OpenS2V-Eval](https://huggingface.co/spaces/BestWishYsh/OpenS2V-Eval) benchmark, highlighting its robust capabilities across multiple evaluation dimensions and demonstrating competitive performance against several leading open-source and commercial systems.

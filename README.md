@@ -43,9 +43,9 @@
 
 ## 🗓️ Todo List
 
-- [✅] Release inference code
-- [✅] Release checkpoint of BindWeave_Wan_14B
-- [✅] Release training code of BindWeave
+- [x] Release inference code
+- [x] Release checkpoint of BindWeave_Wan_14B
+- [x] Release training code of BindWeave
 
 
 ## 📖 Overview

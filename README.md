@@ -129,8 +129,8 @@ Using the provided sample cases (i.e., the default path configuration), running 
   
   <tr>
     <td style="text-align: center; vertical-align: middle;">
-      <img src="s2v/OpenS2V-Eval/Images/woman1.jpg" alt="Image 1" style="height: 120px;">
-      <img src="s2v/OpenS2V-Eval/Images/woman2.jpg" alt="Image 1" style="height: 120px;">
+      <img src="s2v/OpenS2V-Eval/Images/woman1.jpg" alt="Image 1" style="height: 150px;">
+      <img src="s2v/OpenS2V-Eval/Images/woman2.jpg" alt="Image 1" style="height: 150px;">
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <img src="s2v/OpenS2V-Eval/Results/multihuman.gif" alt="GIF 1" style="width: 400px;">

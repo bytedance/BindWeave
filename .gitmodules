@@ -4,3 +4,6 @@
 [submodule "MindSpeed"]
 	path = MindSpeed
 	url = https://gitee.com/ascend/MindSpeed.git
+[submodule "MindSpeed-MM"]
+	path = MindSpeed-MM
+	url = https://gitee.com/ascend/MindSpeed-MM.git

@@ -114,7 +114,7 @@ Using the provided sample cases (i.e., the default path configuration), running 
       <img src="s2v/OpenS2V-Eval/Images/school.jpg" alt="Image 2" style="height: 120px;">
     </td>
     <td style="text-align: center; vertical-align: middle;">
-      <img src="/Users/bytedance/Desktop/BindWeave/s2v/OpenS2V-Eval/Results/faceobj.gif" alt="GIF 1" style="width: 400px;">
+      <img src="s2v/OpenS2V-Eval/Results/faceobj.gif" alt="GIF 1" style="width: 400px;">
     </td>
   </tr>
 
@@ -123,7 +123,7 @@ Using the provided sample cases (i.e., the default path configuration), running 
       <img src="s2v/OpenS2V-Eval/Images/man.png" alt="Image 1" style="height: 120px;">
     </td>
     <td style="text-align: center; vertical-align: middle;">
-      <img src="/Users/bytedance/Desktop/BindWeave/s2v/OpenS2V-Eval/Results/singleface.gif" alt="GIF 1" style="width: 400px;">
+      <img src="s2v/OpenS2V-Eval/Results/singleface.gif" alt="GIF 1" style="width: 400px;">
     </td>
   </tr>
   
@@ -133,7 +133,7 @@ Using the provided sample cases (i.e., the default path configuration), running 
       <img src="s2v/OpenS2V-Eval/Images/woman2.jpg" alt="Image 1" style="height: 120px;">
     </td>
     <td style="text-align: center; vertical-align: middle;">
-      <img src="/Users/bytedance/Desktop/BindWeave/s2v/OpenS2V-Eval/Results/multihuman.gif" alt="GIF 1" style="width: 400px;">
+      <img src="s2v/OpenS2V-Eval/Results/multihuman.gif" alt="GIF 1" style="width: 400px;">
     </td>
   </tr>
 

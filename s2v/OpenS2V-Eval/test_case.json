@@ -1,0 +1,39 @@
+{
+    "faceobj_1": {
+        "img_paths": [
+            "Images/human.jpg",
+            "Images/dog.jpg",
+            "Images/school.jpg"
+        ],
+        "prompt": "a man playing with his dog in front of the house",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Dog",
+            "School"
+        ]
+    },
+    "singleface_1": {
+        "img_paths": [
+            "Images/man.png"
+        ],
+        "prompt": "The video features a young man standing outdoors in a snowy park. he is wearing a colorful winter jacket with a floral pattern and a white knit hat. The background shows a snowy landscape with trees, benches, and a metal fence. The ground is covered in snow, and there is a light snowfall in the air. The man appears to be enjoying the winter weather, as he smiles and gives a thumbs-up gesture towards the camera. The overall atmosphere of the video is cheerful and festive, capturing the beauty of a snowy day in a park.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "multihuman_14": {
+        "img_paths": [
+            "Images/woman1.jpg",
+            "Images/woman2.jpg"
+        ],
+        "prompt": "The video depicts two women seated at a kitchen table, enjoying breakfast. The woman on the left has long blonde hair and is enthusiastically eating a croissant, taking large bites and savoring the moment. She appears to be enjoying her food. The woman on the right has short dark hair and is holding an apple, looking somewhat disinterested or perhaps even slightly annoyed by the other's behavior. She seems to be contemplating whether to eat the apple or not.\n\nThe kitchen setting is modern and clean, with white cabinets and a light-colored backsplash. On the counter behind them, there are jars containing what appear to be cereals or dried fruits, adding to the breakfast atmosphere. A small potted plant sits on the counter, adding a touch of greenery to the scene. The table they are sitting at is covered with a light-colored tablecloth, and there are two mugs, one next to each woman, suggesting they are having coffee or tea with their meal.\n\nThe camera remains static throughout the sequence, focusing on capturing the interaction between the two women and their breakfast. There is no noticeable camera movement, such as panning or zooming, which allows the viewer to observe the subtle dynamics between the two individuals. The overall mood of the video suggests a casual, everyday moment shared between friends or family members.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Woman"
+        ]
+    }
+
+}

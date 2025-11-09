@@ -1,0 +1,2082 @@
+{
+    "singleobj_1": {
+        "img_paths": [
+            "Images/singleobject/cup/52.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a teapot sitting on a cozy kitchen table, steam rising gently from its spout. The camera zooms in to capture the swirling steam, which moves gracefully in the warm light. A hand reaches into the frame, lifting the teapot\u2019s lid slightly, causing the steam to intensify for a moment. As the camera shifts, the soft clink of a cup being placed next to the teapot adds to the peaceful ambiance. The camera pulls back to show the kitchen\u2019s warm, inviting atmosphere, with the teapot remaining the focal point as the steam continues to rise, filling the scene with a sense of calm and comfort.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Cup"
+        ]
+    },
+    "singleobj_2": {
+        "img_paths": [
+            "Images/singleobject/camera/24.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a vintage camera resting on an old wooden desk, surrounded by scattered photographs. The camera zooms in to capture the details of the camera\u2014its weathered leather, brass accents, and the glass lens catching the light. A hand gently picks up one of the photographs, flipping it over to reveal its back. The camera shifts focus between the photos and the camera, as the hand adjusts the camera\u2019s settings with a soft click. As the hand places the photo back onto the desk, a slight breeze causes a few of the scattered photographs to shift, creating subtle motion in the scene. The soft sound of the camera\u2019s dials and the faint rustle of paper add to the nostalgic atmosphere of the moment.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Camera"
+        ]
+    },
+    "singleobj_3": {
+        "img_paths": [
+            "Images/singleobject/shoes/22.jpg"
+        ],
+        "prompt": "The video begins with a person dribbling a basketball on the court, their movements quick and focused. The camera shifts to a close-up of their basketball shoes as they pivot and make a sharp move, the soles gripping the court with each step. The shoes\u2019 sleek design and vibrant colors are highlighted as they absorb the impact of quick cuts and jumps. The camera follows the motion of the shoes, capturing the flexing of the material as the player springs for a shot. The sound of sneakers squeaking against the hardwood and the basketball bouncing fills the background, emphasizing the fast-paced energy of the game. The shoes remain the focal point, their performance and durability in action as the player continues to move.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Shoes"
+        ]
+    },
+    "singleobj_4": {
+        "img_paths": [
+            "Images/singleobject/bike/17.jpg"
+        ],
+        "prompt": "The video opens with a person pedaling smoothly on a bicycle along a quiet street. The camera focuses on the rider, capturing their steady rhythm as they effortlessly glide through the scene. The wind slightly tousles their hair as they lean into each pedal, the sound of the tires humming against the pavement. The sunlight creates a soft glow on their face, highlighting the focus in their eyes. As the camera shifts, the street and passing scenery blur slightly, emphasizing the motion and fluidity of the ride. The cyclist shifts slightly to navigate a gentle turn, the bicycle responding with subtle, fluid movement, all while maintaining a peaceful, calm pace. The sound of soft wind and the steady cadence of pedaling fill the background, creating a serene, uplifting atmosphere.\n\n\nbackground",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Bike"
+        ]
+    },
+    "singleobj_5": {
+        "img_paths": [
+            "Images/singleobject/lamp/15.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a street lamp, its warm glow casting soft light across the cobblestone street below. The camera slowly zooms out, revealing the lantern-style lamp against a dusky sky, with scattered clouds catching the last light of sunset. As the breeze stirs, the faint rustle of leaves can be heard, and the soft light from the lamp flickers slightly, casting changing shadows on the cobblestones. The camera moves gently around the scene, capturing the play of light and shadow, with the street lamp remaining the focal point. The distant sound of footsteps or faint city noise adds to the calm yet slightly mysterious atmosphere of the quiet evening.\n\nbackground",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Lamp"
+        ]
+    },
+    "singleobj_6": {
+        "img_paths": [
+            "Images/singleobject/clothes/41.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a t-shirt laid out on a sunny rock, the fabric gently catching the light of the sun. The camera zooms in to capture the texture of the shirt as it rests on the rock, with the surrounding hiking trail visible in the background. A light breeze picks up, causing the edges of the shirt to flutter slightly. The camera follows the movement of the fabric as it shifts with the wind. As the camera pulls back, the serene mountain landscape unfolds, with distant trees and a winding trail. The sounds of rustling leaves and distant birdsong add to the calm atmosphere, emphasizing the quiet, peaceful moment in nature.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Clothes"
+        ]
+    },
+    "singleobj_7": {
+        "img_paths": [
+            "Images/singleobject/teddybear/13.jpg"
+        ],
+        "prompt": "The video opens with a close-up of a teddy bear sitting on a park bench, surrounded by vibrant autumn leaves scattered across the ground. The camera slowly zooms in on the teddy bear, capturing the soft texture of its fur as a gentle breeze causes a few leaves to flutter around it. The bear remains still, its button eyes reflecting the soft light of the autumn afternoon. Occasionally, a leaf lands on the bear's lap, adding a subtle motion to the otherwise calm scene. The sound of leaves rustling and the distant chirping of birds creates a peaceful atmosphere, with the teddy bear remaining the focal point of the tranquil park setting.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Teddybear"
+        ]
+    },
+    "singleobj_8": {
+        "img_paths": [
+            "Images/singleobject/bowl/36.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a ceramic bowl filled with vibrant citrus fruits, resting on a rustic wooden table. The camera zooms in to capture the bright colors of the fruits\u2014orange, lemon, and lime\u2014contrasting against the smooth texture of the ceramic bowl. A hand reaches into the frame, gently picking up a fruit, causing the others to shift slightly in the bowl. As the fruit is lifted, the camera follows the motion, highlighting the fresh, glossy skin of the citrus. The camera pulls back to reveal the entire scene, with soft light filtering across the table, creating a warm, inviting atmosphere. The faint sound of a fruit being peeled or the soft clink of the bowl adds to the peaceful, natural setting.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Bowl"
+        ]
+    },
+    "singleobj_9": {
+        "img_paths": [
+            "Images/singleobject/guitar/39.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a guitar leaning against a wooden stool in a cozy, dimly lit room. The camera slowly zooms in to capture the guitar\u2019s smooth body and worn strings, reflecting the soft, warm light from nearby lamps. A hand enters the frame, gently adjusting the guitar, causing it to tilt slightly. The camera follows the movement, highlighting the subtle shift in the guitar\u2019s position. As the hand pulls back, the sound of soft acoustic strumming is heard, creating a peaceful, inviting atmosphere. The camera pulls back further to show the room's quiet, comfortable ambiance, with shadows dancing on the walls.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Guitar"
+        ]
+    },
+    "singleobj_10": {
+        "img_paths": [
+            "Images/singleobject/boat/62.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a boat anchored near a rocky coastline, gently bobbing on the calm water. The camera zooms in on the boat, capturing the smooth motion of the hull as it shifts with the subtle waves. The sail flutters slightly in the breeze, adding a sense of life to the still scene. The camera slowly pulls back, revealing the rugged coastline and the clear blue sky above, with the sound of the water lapping against the boat\u2019s sides. The boat remains anchored, but its subtle rocking interacts with the rhythm of the sea, creating a peaceful, tranquil atmosphere.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Boat"
+        ]
+    },
+    "singleobj_11": {
+        "img_paths": [
+            "Images/singleobject/hat/01.jpg"
+        ],
+        "prompt": "The video begins with a sunlit park bench, the warm light casting soft shadows on the wooden slats. A wide-brimmed hat rests on the bench, slightly tilted as a gentle breeze lifts the brim. The camera focuses on the hat, capturing the texture of the fabric and the subtle play of sunlight. In the background, the peaceful park scene unfolds with distant trees, scattered flowers, and occasional passersby. The calm sounds of nature enhance the quiet atmosphere, leaving the hat as the central, undisturbed subject of the moment.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Hat"
+        ]
+    },
+    "singleobj_12": {
+        "img_paths": [
+            "Images/singleobject/hat/32.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a cap resting on a park bench, surrounded by the lively atmosphere of a busy city park. The camera zooms in to capture the details of the cap, its fabric slightly wrinkled from being left behind. As people pass by in the background, the cap remains still, but a light breeze causes it to shift ever so slightly on the bench. The camera slowly pulls back, showing joggers, walkers, and children playing, creating a dynamic contrast between the cap\u2019s quiet stillness and the motion of the bustling park. The sound of footsteps and distant conversations adds to the lively, yet peaceful, scene.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Hat"
+        ]
+    },
+    "singleobj_13": {
+        "img_paths": [
+            "Images/singleobject/beer/04.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a beer can placed at the center of a circle made of international currencies\u2014paper bills and coins from various countries. The camera slowly zooms out, capturing the can\u2019s metallic surface and the intricate details of the surrounding money. As the camera moves, the currencies subtly shimmer, reflecting light, while the beer can remains the focal point. The sound of light ambient noise adds to the quiet significance of this global scene, emphasizing the connection between the beer can and its worldwide influence.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Beer"
+        ]
+    },
+    "singleobj_14": {
+        "img_paths": [
+            "Images/singleobject/earphone/55.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a pair of headphones lying on a wooden desk, their smooth ear cups reflecting the light. The camera slowly zooms in to capture the subtle details of the headphones, including the soft padding and sleek design. A hand enters the frame, gently adjusting the position of the headphones, causing them to slightly shift. The camera then moves to show the open laptop beside the headphones, the screen glowing softly. As the camera pulls back, the faint sound of music or a notification ping from the laptop can be heard, creating a quiet, focused atmosphere. The headphones remain the main focus, the subtle interaction with the desk and laptop adding to the sense of quiet productivity.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Earphone"
+        ]
+    },
+    "singleobj_15": {
+        "img_paths": [
+            "Images/singleobject/cup/27.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a steaming mug resting on a rainy window sill, its surface gently fogged by the warm steam. The camera zooms in to capture the delicate tendrils of steam rising from the mug, contrasting with the cool, rain-speckled window in the background. As the camera shifts, raindrops gently slide down the window, blurring the outside world. A hand reaches in to take the mug, causing a slight shift in the steam\u2019s movement. The camera follows the hand as it lifts the mug, the sound of rain tapping against the glass filling the quiet scene. The focus remains on the mug, with the rain and steam creating a calming, cozy atmosphere.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Cup"
+        ]
+    },
+    "singleobj_16": {
+        "img_paths": [
+            "Images/singleobject/glasses/58.jpg"
+        ],
+        "prompt": "The video begins with a close-up of sunglasses resting on a beach towel, the bright sun reflecting off the lenses. The camera zooms in to capture the details of the sunglasses, highlighting the sleek frame and the soft shimmer on the lenses. A gentle breeze causes the corner of the towel to flutter slightly, and the sunglasses shift ever so slightly on the fabric. The camera pulls back, revealing the sandy beach and the waves gently crashing in the distance. The soft sound of the ocean and the occasional rustle of the towel create a relaxed, sun-soaked atmosphere, with the sunglasses remaining the focal point, catching the light as they rest in the warmth of the day.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Glasses"
+        ]
+    },
+    "singleobj_17": {
+        "img_paths": [
+            "Images/singleobject/cup/30.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a vase sitting on a rustic wooden table, bathed in the soft, golden light of the morning sun. The camera zooms in on the vase, capturing its smooth surface and delicate details. As the sunlight shifts, the light slowly moves across the vase, creating subtle reflections and shadows on the table. A gentle breeze flows through an open window, causing a few flowers in the vase to sway slightly. The camera pulls back to reveal the tranquil scene, with the soft sound of the breeze and the warm ambiance of the room, emphasizing the peaceful interaction between the vase and the sunlight.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Cup"
+        ]
+    },
+    "singleobj_18": {
+        "img_paths": [
+            "Images/singleobject/toy/20.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a Magic Cube resting on a wooden desk, partially solved. The camera zooms in to capture the colorful tiles and the subtle shift of the cube as hands move it, turning it in precise motions. As the cube rotates, a few pieces align, completing sections of the puzzle. The sound of the clicking mechanism fills the background, adding to the focus and concentration in the scene. The camera shifts slightly, following the hands as they continue to manipulate the cube, highlighting the smooth, rhythmic motion of solving it piece by piece. The wooden desk provides a simple, quiet backdrop, emphasizing the cube's intricate movements.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Toy"
+        ]
+    },
+    "singleobj_19": {
+        "img_paths": [
+            "Images/singleobject/camera/23.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a vintage camera resting on a rustic wooden table, surrounded by old, worn books. The camera slowly zooms in on the camera, highlighting its details\u2014brass knobs, worn leather, and the reflective glass lens. A hand reaches into the frame, gently adjusting the camera\u2019s settings, the soft click of the dials echoing in the quiet room. The camera shifts focus to show the edges of the old books, their pages yellowed, creating a nostalgic backdrop. As the camera pulls back, the vintage camera is once again the focal point, capturing a sense of timelessness as the hand carefully handles it. The sound of pages flipping and the faint click of the camera\u2019s dials enhance the atmosphere of this quiet, thoughtful scene.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Camera"
+        ]
+    },
+    "singleobj_20": {
+        "img_paths": [
+            "Images/singleobject/toy/18.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a robot arm in a factory, its precise movements assembling a car on the production line. The camera follows the robot's arm as it expertly places parts onto the car's frame, the metallic components fitting together seamlessly. The sound of machinery hums in the background as the robot\u2019s arm moves fluidly, tightening bolts and adjusting pieces with sharp, calculated motions. The camera pans to show the assembly line, with other machines and robots working in sync, creating a rhythm of motion in the factory. As the robot continues its work, the car's shape gradually comes together, highlighting the efficiency and precision of the automation process. The factory's industrial atmosphere is complemented by the steady rhythm of gears and tools, showcasing a world of advanced technology at work.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Toy"
+        ]
+    },
+    "singleobj_21": {
+        "img_paths": [
+            "Images/singleobject/tv/49.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a vintage television resting on a classic wooden stand in a cozy living room. The camera zooms in to highlight the television\u2019s retro design\u2014its rounded edges, dials, and the soft glow of the screen. A hand reaches into the frame, gently turning one of the dials, causing the screen to flicker briefly. As the camera pulls back, the warm light of the room reflects off the wooden stand, adding a nostalgic ambiance. The television remains the focal point, the faint hum of static in the background, while the soft sound of a distant conversation or the crackling of a record player adds to the cozy, vintage atmosphere.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "TV"
+        ]
+    },
+    "singleobj_22": {
+        "img_paths": [
+            "Images/singleobject/ring/16.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a ring resting delicately on a soft, red rose petal. The camera slowly zooms in to highlight the intricate details of the ring, its polished surface catching the light. A gentle breeze causes the rose petal to slightly flutter, moving the ring ever so slightly. The camera shifts focus between the ring and the delicate movement of the petal, enhancing the quiet elegance of the scene. The soft rustling of the petals and a faint ambient sound contribute to the peaceful, intimate atmosphere.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Ring"
+        ]
+    },
+    "singleobj_23": {
+        "img_paths": [
+            "Images/singleobject/sofa/11.jpg"
+        ],
+        "prompt": "The video opens with a plush armchair positioned near a roaring fireplace, the warm glow from the flames casting soft light across the room. The camera slowly zooms in on the armchair, capturing its inviting cushions and rich fabric. As the fire crackles, a slight movement is seen in the armchair, as if someone just left it, leaving behind a faint impression in the cushions. The camera shifts to the flickering flames, then back to the chair, highlighting the contrast between the stillness of the armchair and the lively motion of the fire. The gentle crackling sound of the fire and the soft flicker of light create a warm, cozy atmosphere.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Sofa"
+        ]
+    },
+    "singleobj_24": {
+        "img_paths": [
+            "Images/singleobject/watch/12.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a watch casually left on an old wooden table, its shiny surface reflecting the soft light in the room. The camera slowly zooms in to capture the details of the watch\u2014its intricate design, the ticking motion of the second hand, and the wear on the wooden table beneath. A cup of coffee sits beside the watch, steam gently rising from it, creating a soft swirl in the air. Occasionally, the camera shifts focus between the watch and the coffee, with the watch\u2019s second hand continuing its steady motion. The sound of the soft ticking and the faint clink of the coffee cup adds to the peaceful, quiet ambiance of the scene.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Watch"
+        ]
+    },
+    "singleobj_25": {
+        "img_paths": [
+            "Images/singleobject/shoes/07.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a basketball shoe resting on a reflective surface, its vibrant, multicolored laces standing out against the sleek design. The camera slowly zooms in to capture the intricate details of the shoe\u2014its texture, stitching, and the dynamic play of colors in the laces. As the camera pulls back, the reflections on the surface create an interesting visual effect, enhancing the shoe\u2019s bold features. The video maintains focus on the shoe, emphasizing its design and energy, while subtle background sounds highlight the movement of the camera.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Shoes"
+        ]
+    },
+    "singleobj_26": {
+        "img_paths": [
+            "Images/singleobject/clock/56.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a clock hanging on the weathered wall of an old train station, its hands ticking steadily. The camera zooms in to capture the worn details of the clock\u2014its faded face and rusted metal frame. As the camera pulls back, the faint sound of a train\u2019s whistle is heard in the distance, and the clock\u2019s steady ticking becomes more pronounced in the otherwise quiet atmosphere. The wall behind it shows signs of age, with chipped paint and faded bricks. Occasionally, a slight vibration from a passing train causes the clock to tremble slightly, adding subtle motion to the otherwise still scene. The clock remains the focal point, symbolizing the passage of time in a timeless, nostalgic setting.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Clock"
+        ]
+    },
+    "singleobj_27": {
+        "img_paths": [
+            "Images/singleobject/bag/28.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a backpack resting on a rocky trail, surrounded by the rugged terrain of the mountains. The camera zooms in to highlight the texture of the backpack, worn from the journey, and the subtle shifting of the rocks beneath it. A light breeze causes the straps of the backpack to gently sway. As the camera pulls back, the vast mountain landscape is revealed, with distant peaks and patches of greenery. The sound of wind rustling through the trees and distant birdsong adds to the tranquil atmosphere. The backpack remains still, a quiet reminder of the journey, while the natural elements move around it.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Bag"
+        ]
+    },
+    "singleobj_28": {
+        "img_paths": [
+            "Images/singleobject/motor/00.jpg"
+        ],
+        "prompt": "The video opens with a custom-built motorcycle parked on cracked concrete, bathed in the warm light of the setting sun. The engine hums softly, then roars to life as the rider steps forward and twists the throttle. The rear wheel spins briefly, sending dust into the air.\n\nThe bike lifts off its stand and moves forward, its suspension compressing as the rider accelerates. The wheels grip the road, and the camera follows the smooth motion of the bike as it powers through the street. The exhaust emits a burst of sound, while the bike leans slightly into turns, its movement fluid and precise. Light and shadow shift with each motion, highlighting the motorcycle's sleek, aggressive form.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Motor"
+        ]
+    },
+    "singleobj_29": {
+        "img_paths": [
+            "Images/singleobject/hairdryer/26.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a hair dryer resting on a minimalist vanity, its sleek design standing out against the simple backdrop. The camera slowly zooms in, capturing the smooth surface of the hair dryer as soft light reflects off its polished exterior. A hand reaches into the frame, turning the hair dryer on, the gentle hum filling the room. As the camera pulls back, the mirror in the background reflects the bright bathroom, amplifying the clean, modern atmosphere. The hair dryer emits a soft stream of air, causing a few strands of hair to gently move in the reflection. The sound of the dryer\u2019s hum and the quiet ambiance of the bathroom create a peaceful, daily routine scene.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Hairdryer"
+        ]
+    },
+    "singleobj_30": {
+        "img_paths": [
+            "Images/singleobject/bag/57.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a leather handbag resting on a polished mahogany desk, its rich texture and sleek design highlighted by the soft light. The camera zooms in to capture the subtle details of the handbag\u2014its stitching, the shine of the leather, and the clasp. A hand enters the frame, gently adjusting the bag, causing it to slightly shift on the desk. The camera follows the movement, focusing on the graceful motion of the handbag. As the camera pulls back, the gleaming wood of the desk reflects the handbag\u2019s surface, creating a warm, elegant atmosphere. The sound of a soft click or rustle from the bag adds to the calm, sophisticated vibe of the scene.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Bag"
+        ]
+    },
+    "singlehuman_1": {
+        "img_paths": [
+            "Images/singlehuman/man/15.png"
+        ],
+        "prompt": "The video depicts a young man sitting at a wooden desk, deeply engrossed in his work. he is wearing glasses and has long hair that falls over his shoulders. The man appears to be focused on a document or piece of paper in front of his, as he writes with a pen. his posture suggests concentration and determination. The desk is cluttered with numerous stacks of papers and documents, indicating a busy and possibly overwhelming workload. The lighting in the room is dim, casting shadows and creating a somewhat somber atmosphere. The man's expression is one of intense focus, with his hand resting on his chin, suggesting deep thought or contemplation. The overall scene conveys a sense of hard work and dedication, highlighting the challenges faced by individuals in managing their tasks and responsibilities. The presence of the large piles of paperwork emphasizes the volume of work that needs to be completed, adding to the pressure and stress associated with such tasks.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_2": {
+        "img_paths": [
+            "Images/singlehuman/man/5.png"
+        ],
+        "prompt": "A man gently clutching a bouquet of vibrant flowers, his eyes radiating a serene contentment as he glances at the camera. His slightly upturned lips convey a sense of calm joy, accompanied by a faint twinkle in his eye. The scene is set in a lush garden, brimming with colorful blooms and verdant foliage, creating a tranquil haven. The shot captures him from the waist up, emphasizing his relaxed stance and the natural harmony of his surroundings.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_3": {
+        "img_paths": [
+            "Images/singlehuman/man/11.png"
+        ],
+        "prompt": "The video features a man standing at an easel, focused intently as his brush dances across the canvas. His expression is one of deep concentration, with a hint of satisfaction as each brushstroke adds color and form. He wears a paint-splattered apron, and his hands move with confident precision. The setting, filled with scattered art supplies, open paint tubes, and unfinished sketches pinned to the wall, suggests an artist's studio. A large window on one side allows sunlight to stream in, casting a soft glow across the room and illuminating the colors on his canvas. The atmosphere is creative and inspired, with the man's intense focus and the lively colors on the canvas indicating a moment of artistic passion and expression.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_4": {
+        "img_paths": [
+            "Images/singlehuman/man/12.png"
+        ],
+        "prompt": "The video features a man with a rugged beard, wearing a leather jacket, riding a vintage motorcycle along a desert highway. His expression is focused, eyes narrowed slightly against the wind, as the setting sun casts a warm glow over the landscape. The highway stretches endlessly, bordered by arid land with occasional cacti and rocky outcrops. The motorcycle roars smoothly, leaving a light trail of dust. In the distance, hazy mountains are silhouetted against the amber sky. The scene suggests adventure and determination, evoking freedom, with the man riding purposefully through the tranquil, sunlit desert.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_5": {
+        "img_paths": [
+            "Images/singlehuman/man/3.png"
+        ],
+        "prompt": "The video shows a man celebrating his birthday, holding a piece of cake while he prepares to blow out the candles. He is smiling warmly, and as he closes his eyes to make a wish, a hint of emotion crosses his face\u2014perhaps a moment of nostalgia or excitement. Around him, soft, ambient lighting from nearby candles casts a warm glow, and there are a few balloons and decorations in the background, suggesting a cozy celebration at home. He then blows out the candles gently, and his smile grows wider, radiating happiness and satisfaction. The overall atmosphere is cheerful and intimate, with the focus on the man's genuine facial expressions as he enjoys this special moment.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_6": {
+        "img_paths": [
+            "Images/singlehuman/man/4.png"
+        ],
+        "prompt": "The video shows a young boy sitting at a table, eating a piece of food. He appears to be enjoying his meal, as he takes a bite and chews it. The boy is wearing a blue shirt and has short hair. The background is dark, with some light coming from the left side of the frame. There is a straw visible on the right side of the frame, suggesting that there may be a drink next to the boy's plate. The overall atmosphere of the video seems casual and relaxed, with the focus on the boy's enjoyment of his food.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_7": {
+        "img_paths": [
+            "Images/singlehuman/man/9.png"
+        ],
+        "prompt": "The video captures a boy walking along a city street, filmed in black and white on a classic 35mm camera. His expression is thoughtful, his brow slightly furrowed as if he's lost in contemplation. The film grain adds a textured, timeless quality to the image, evoking a sense of nostalgia. Around him, the cityscape is filled with vintage buildings, cobblestone sidewalks, and softly blurred figures passing by, their outlines faint and indistinct. Streetlights cast a gentle glow, while shadows play across the boy's path, adding depth to the scene. The lighting highlights the boy's subtle smile, hinting at a fleeting moment of curiosity. The overall cinematic atmosphere, complete with classic film still aesthetics and dramatic contrasts, gives the scene an evocative and introspective feel.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_8": {
+        "img_paths": [
+            "Images/singlehuman/man/10.png"
+        ],
+        "prompt": "The video features a man sitting at a rustic wooden table in a caf\u00e9, sipping his coffee. He has short black hair and is dressed in a casual button-up shirt and jeans. The caf\u00e9 has a warm, cozy atmosphere, with soft lighting and a few patrons in the background. The man seems relaxed as he scrolls through his phone, enjoying the peaceful moment away from the hustle of the day.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_9": {
+        "img_paths": [
+            "Images/singlehuman/man/13.png"
+        ],
+        "prompt": "In the video, a man is hiking through a dense forest. He is wearing a backpack, hiking boots, and a cap, with a light jacket to protect against the wind. The trail is narrow, surrounded by tall trees and thick underbrush. The man pauses to take in the scenery, breathing in the fresh air while the sounds of birds and rustling leaves fill the background.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_10": {
+        "img_paths": [
+            "Images/singlehuman/man/8.png"
+        ],
+        "prompt": "The video shows a man sitting on a park bench under a large oak tree, reading a book. He has a beard and is wearing a casual sweater and jeans. The park is quiet and green, with sunlight filtering through the tree branches. The man seems completely absorbed in his book, occasionally glancing up to enjoy the peaceful surroundings.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_11": {
+        "img_paths": [
+            "Images/singlehuman/man/1.png"
+        ],
+        "prompt": "In the video, a man is playing an acoustic guitar on a beach at sunset. He is wearing a simple t-shirt, shorts, and sunglasses, with his feet buried in the warm sand. The sun is dipping below the horizon, casting an orange glow across the sky and reflecting off the ocean. The sound of gentle waves adds to the relaxing atmosphere as the man strums a soft tune.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_12": {
+        "img_paths": [
+            "Images/singlehuman/man/7.png"
+        ],
+        "prompt": "The video features a man standing at the edge of a cliff, looking out over a vast mountain range. He has short, sandy hair and is dressed in hiking gear, including a jacket, boots, and gloves. The wind is blowing gently, and the view is breathtaking, with the mountains stretching endlessly in the distance. The man takes a deep breath, enjoying the sense of freedom and adventure.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_13": {
+        "img_paths": [
+            "Images/singlehuman/man/2.png"
+        ],
+        "prompt": "In the video, a man is working in a garden, planting flowers. He is wearing a straw hat, gloves, and a plaid shirt, with dirt on his jeans. The garden is full of vibrant flowers and greenery, and the sunlight creates a warm and inviting atmosphere. The man carefully places a flower in the soil, wiping his brow with the back of his hand before moving on to the next plant.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_14": {
+        "img_paths": [
+            "Images/singlehuman/man/6.png"
+        ],
+        "prompt": "The video shows a man walking along a quiet street in the early morning. He is wearing a light jacket and running shoes, with earbuds in his ears. The street is mostly empty, and the city is just beginning to wake up. The man enjoys the calm of the early morning, his pace steady as he jogs down the empty road with the soft sound of his footsteps echoing in the stillness.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singlehuman_15": {
+        "img_paths": [
+            "Images/singlehuman/woman/9.png"
+        ],
+        "prompt": "The video features a news reporter who is walking down a city street at night while holding a microphone and speaking to the camera. The reporter is wearing a white coat and a blue tie, and he appears to be reporting on a story related to the economy. The background shows a brightly lit cityscape with tall buildings and streetlights, creating a vibrant and dynamic atmosphere. The reporter's speech is accompanied by various text overlays that provide additional information about the story, such as \"\"Global Economic Forum\"\" and \"\"Economy is Growing Fast, Sure Global Rebound.\"\" These text elements suggest that the reporter is discussing economic trends and forecasts. Overall, the video captures a moment of news reporting in an urban setting, with the reporter providing insights into the state of the global economy",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_16": {
+        "img_paths": [
+            "Images/singlehuman/woman/15.jpg"
+        ],
+        "prompt": "The video depicts a young girl walking through a greenhouse filled with lush green plants and vegetables. She is wearing a white dress and appears to be enjoying her time in the garden. The greenhouse has a wooden structure with large glass panels allowing plenty of natural light to enter. The plants are healthy and vibrant, with various types of vegetables growing in the rows. The girl seems to be exploring the greenhouse, possibly picking some of the vegetables or simply admiring the growth. The overall atmosphere is serene and peaceful, with the girl appearing content and happy in her surroundings.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_17": {
+        "img_paths": [
+            "Images/singlehuman/woman/4.png"
+        ],
+        "prompt": "The video features a baby wearing a bright superhero cape, standing confidently with arms raised in a powerful pose. The baby has a determined look on their face, with eyes wide and lips pursed in concentration, as if ready to take on a challenge. The setting appears playful, with colorful toys scattered around and a soft rug underfoot, while sunlight streams through a nearby window, highlighting the fluttering cape and adding to the impression of heroism. The overall atmosphere is lighthearted and fun, with the baby's expressions capturing a mix of innocence and an adorable attempt at bravery, as if truly ready to save the day.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_18": {
+        "img_paths": [
+            "Images/singlehuman/woman/8.png"
+        ],
+        "prompt": "The video features a little girl with pigtails, a backpack, and a bright smile, skipping joyfully down a bustling city street. She holds a bunch of colorful balloons that sway as she moves, her eyes wide with excitement. The backdrop of vibrant buildings and street vendors adds to the lively and cheerful atmosphere, capturing a sense of carefree happiness. The scene feels energetic and warm, with the girl's playful skipping and the colorful surroundings indicating a moment of childhood wonder amidst a busy urban setting.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_19": {
+        "img_paths": [
+            "Images/singlehuman/woman/10.png"
+        ],
+        "prompt": "The video features a girl sitting on a stool, playing a guitar with her fingers moving skillfully across the strings, creating a soulful melody. Her eyes are closed, and there's a slight smile on her face, conveying a sense of deep connection to the music. The setting appears calm and intimate, with the girl's relaxed The video features a girl sitting on a stool in a softly lit room, playing a guitar with her fingers moving skillfully across the strings, creating a soulful melody. Her eyes are closed, and there's a slight smile on her face, conveying a sense of deep connection to the music. The setting appears calm and intimate, with warm lighting casting gentle shadows on the walls, and a few scattered musical notes or sheets on the floor around her. The girl's relaxed posture suggests she's lost in the moment. The overall atmosphere is serene and emotive, with her facial expression and focused strumming emphasizing her passion for the melody she plays. suggesting she's lost in the moment. The overall atmosphere is serene and emotive, with her facial expression and focused strumming emphasizing her passion for the melody she plays.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_20": {
+        "img_paths": [
+            "Images/singlehuman/woman/2.png"
+        ],
+        "prompt": "The video features a girl standing by the beach, her long black hair gently swaying in the breeze. She is wearing a flowy, white sundress and has her hands on her hips. The golden sand stretches out behind her, with the waves softly crashing on the shore. The sun is setting in the background, casting a warm orange glow over the scene. The atmosphere is peaceful and serene, with the girl enjoying the moment in nature.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_21": {
+        "img_paths": [
+            "Images/singlehuman/woman/13.jpg"
+        ],
+        "prompt": "The video shows a woman walking through a quiet, cobblestone street in an old European town. She is wearing a light jacket and a scarf, and her brown hair is pulled back into a ponytail. The street is lined with charming buildings and small cafes, and the scene feels cozy and inviting. The woman looks around, taking in the historic surroundings with a smile, as the soft afternoon light filters down from the sky.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_22": {
+        "img_paths": [
+            "Images/singlehuman/woman/11.png"
+        ],
+        "prompt": "In the video, a girl is riding her bicycle down a winding path through a forest. She has long, wavy hair and is dressed in a casual t-shirt and denim shorts. The trees around her create a canopy of greenery, and the sunlight dappled through the leaves creates playful patterns on the ground. She smiles and enjoys the peacefulness of the forest, pedaling leisurely as birds chirp in the background.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_23": {
+        "img_paths": [
+            "Images/singlehuman/woman/7.jpg"
+        ],
+        "prompt": "The video features a woman sitting in a cozy armchair in a library. She is wearing glasses and a knitted sweater, with her legs tucked up under her. She is reading a book, and the warm light from a nearby lamp casts a soft glow on her face. The shelves around her are filled with books, and the atmosphere is calm and intellectual, with the occasional sound of pages turning.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_24": {
+        "img_paths": [
+            "Images/singlehuman/woman/3.png"
+        ],
+        "prompt": "The video shows a woman standing in a flower garden, surrounded by blooming roses and lilies. She is wearing a light pink dress with delicate lace details and a sun hat. Her blonde hair is loosely tied up, and she gently touches a flower as she admires the vibrant colors around her. The sun is shining brightly, creating a cheerful and refreshing atmosphere in the garden.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_25": {
+        "img_paths": [
+            "Images/singlehuman/woman/1.png"
+        ],
+        "prompt": "In the video, a girl is sitting on a grassy hill, overlooking a vast field with wildflowers in full bloom. She is wearing a casual t-shirt and denim shorts, with a wide-brimmed hat. The wind is gently blowing through the tall grasses, and the sky is clear and blue. She gazes out at the horizon, lost in thought, enjoying the peaceful and open landscape.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_26": {
+        "img_paths": [
+            "Images/singlehuman/woman/5.png"
+        ],
+        "prompt": "The video features a woman jogging along a trail beside a serene lake. She has short, curly hair and is wearing athletic wear and sneakers. The surrounding trees and the shimmering water create a peaceful atmosphere, while the woman maintains a steady pace, focusing on her exercise. The morning sunlight casts a soft glow on the scene, adding to the sense of calm.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_27": {
+        "img_paths": [
+            "Images/singlehuman/woman/12.jpg"
+        ],
+        "prompt": "The video shows a girl dancing in an empty studio. She has long, flowing hair and is wearing a black leotard with a flowing skirt. She moves gracefully across the floor, her arms extended in fluid motions. The studio is bright with natural light coming through large windows, and the minimalist design of the room emphasizes the elegance of her movements.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_28": {
+        "img_paths": [
+            "Images/singlehuman/woman/6.png"
+        ],
+        "prompt": "In the video, a woman is sitting at a caf\u00e9 terrace, enjoying a cup of tea. She is wearing a light blouse and has her hair pulled back into a bun. The table in front of her is set with a small plate of pastries, and she takes a slow sip from her cup, savoring the moment. The bustling city street in the background creates a lively but relaxed atmosphere, as people walk by and cars pass in the distance.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_29": {
+        "img_paths": [
+            "Images/singlehuman/woman/14.jpg"
+        ],
+        "prompt": "The video features a girl painting on a large canvas in a bright studio. She is wearing a paint-splattered apron and has her hair tied up in a bun. The studio is filled with art supplies and colorful paintings on the walls. She concentrates intently on her work, adding brushstrokes to her canvas as soft music plays in the background, creating an inspiring and creative atmosphere.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singlehuman_30": {
+        "img_paths": [
+            "Images/singlehuman/woman/7.jpg"
+        ],
+        "prompt": "In the video, a woman is sitting at a caf\u00e9 terrace, enjoying a cup of tea. She is wearing a light blouse and has her hair pulled back into a bun. The table in front of her is set with a small plate of pastries, and she takes a slow sip from her cup, savoring the moment. The bustling city street in the background creates a lively but relaxed atmosphere, as people walk by and cars pass in the distance.",
+        "synthesis_flag": "wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "humanobj_1": {
+        "img_paths": [
+            "Images/humanobj/human/man/celebrity/1.jpg",
+            "Images/humanobj/thing/animal/bird/1.jpg",
+            "Images/humanobj/environment/park/1.jpg"
+        ],
+        "prompt": "a man feeding a bird in the park.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Bird",
+            "Park"
+        ]
+    },
+    "humanobj_2": {
+        "img_paths": [
+            "Images/humanobj/human/man/celebrity/10.jpg",
+            "Images/humanobj/thing/animal/bird/2.jpg",
+            "Images/humanobj/environment/park/2.jpg"
+        ],
+        "prompt": "a man walking in the park, a bird flying around him.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Bird",
+            "Park"
+        ]
+    },
+    "humanobj_3": {
+        "img_paths": [
+            "Images/humanobj/human/man/celebrity/2.jpg",
+            "Images/humanobj/thing/animal/bird/4.jpg",
+            "Images/humanobj/environment/park/5.jpg"
+        ],
+        "prompt": "a man standing in the park watching the flying bird.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Bird",
+            "Park"
+        ]
+    },
+    "humanobj_4": {
+        "img_paths": [
+            "Images/humanobj/human/man/celebrity/3.jpg",
+            "Images/humanobj/thing/animal/bird/5.jpg",
+            "Images/humanobj/environment/park/3.jpg"
+        ],
+        "prompt": "a man sitting on the grass in the park, a bird flying around him.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Bird",
+            "Park"
+        ]
+    },
+    "humanobj_5": {
+        "img_paths": [
+            "Images/humanobj/human/man/celebrity/4.jpg",
+            "Images/humanobj/thing/animal/bird/6.jpg",
+            "Images/humanobj/environment/park/6.jpg"
+        ],
+        "prompt": "a man is watching a bird in the park.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Bird",
+            "Park"
+        ]
+    },
+    "humanobj_6": {
+        "img_paths": [
+            "Images/humanobj/human/man/celebrity/5.jpg",
+            "Images/humanobj/thing/animal/cat/1.jpg",
+            "Images/humanobj/environment/airport/4.jpg"
+        ],
+        "prompt": "in the airport terminal, a man crouching down, watching a cat walking towards him.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Cat",
+            "Airport"
+        ]
+    },
+    "humanobj_7": {
+        "img_paths": [
+            "Images/humanobj/human/man/celebrity/6.jpg",
+            "Images/humanobj/thing/animal/cat/10.jpg",
+            "Images/humanobj/environment/office/3.jpg"
+        ],
+        "prompt": "a man sitting in the office, a cat jumping on his desk.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Cat",
+            "Office"
+        ]
+    },
+    "humanobj_8": {
+        "img_paths": [
+            "Images/humanobj/human/man/celebrity/7.jpg",
+            "Images/humanobj/thing/animal/cat/3.png",
+            "Images/humanobj/environment/office/5.jpg"
+        ],
+        "prompt": "a man sitting in the office, a cat sitting beside him.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Cat",
+            "Office"
+        ]
+    },
+    "humanobj_9": {
+        "img_paths": [
+            "Images/humanobj/human/man/celebrity/8.jpg",
+            "Images/humanobj/thing/animal/cat/4.png",
+            "Images/humanobj/environment/park/4.jpg"
+        ],
+        "prompt": "a man walking in the park, a cat sitting on the grass and watching him.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Cat",
+            "Park"
+        ]
+    },
+    "humanobj_10": {
+        "img_paths": [
+            "Images/humanobj/human/man/celebrity/9.jpg",
+            "Images/humanobj/thing/animal/cat/7.jpg",
+            "Images/humanobj/environment/office/6.jpg"
+        ],
+        "prompt": "a man sitting in the office, a cat sitting on his legs",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Cat",
+            "Office"
+        ]
+    },
+    "humanobj_11": {
+        "img_paths": [
+            "Images/humanobj/human/man/celebrity/11.png",
+            "Images/humanobj/thing/animal/cat/8.jpg",
+            "Images/humanobj/environment/office/7.jpg"
+        ],
+        "prompt": "a man standing up from the chair, a cat sitting on the desk and watching him",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Cat",
+            "Office"
+        ]
+    },
+    "humanobj_12": {
+        "img_paths": [
+            "Images/humanobj/human/man/commoner/1.jpg",
+            "Images/humanobj/thing/animal/cat/9.jpg",
+            "Images/humanobj/environment/park/7.jpg"
+        ],
+        "prompt": "a man sitting in the park, a cat walking around his feet",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Cat",
+            "Park"
+        ]
+    },
+    "humanobj_13": {
+        "img_paths": [
+            "Images/humanobj/human/man/commoner/10.jpg",
+            "Images/humanobj/thing/animal/dog/1.jpg",
+            "Images/humanobj/environment/school/3.jpg"
+        ],
+        "prompt": "a man walking his dog in the park.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Dog",
+            "School"
+        ]
+    },
+    "humanobj_14": {
+        "img_paths": [
+            "Images/humanobj/human/man/commoner/2.jpg",
+            "Images/humanobj/thing/animal/dog/2.jpg",
+            "Images/humanobj/environment/school/4.jpg"
+        ],
+        "prompt": "a man sitting on the grass in the park, a dog walking around him.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Dog",
+            "School"
+        ]
+    },
+    "humanobj_15": {
+        "img_paths": [
+            "Images/humanobj/human/man/commoner/4.jpg",
+            "Images/humanobj/thing/animal/dog/3.jpg",
+            "Images/humanobj/environment/school/5.jpg"
+        ],
+        "prompt": "a man walking around the schoolyard, a dog sitting on the ground and watching him.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Dog",
+            "School"
+        ]
+    },
+    "faceobj_1": {
+        "img_paths": [
+            "Images/humanobj/human/crop_man/commoner/5.jpg",
+            "Images/humanobj/thing/animal/dog/4.jpg",
+            "Images/humanobj/environment/school/6.jpg"
+        ],
+        "prompt": "a man playing with his dog in front of the house",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Dog",
+            "School"
+        ]
+    },
+    "faceobj_2": {
+        "img_paths": [
+            "Images/humanobj/human/crop_man/commoner/6.jpg",
+            "Images/humanobj/thing/animal/dog/5.jpg",
+            "Images/humanobj/environment/seaside/1.jpg"
+        ],
+        "prompt": "a man playing with his dog on the beach.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Dog",
+            "Seaside"
+        ]
+    },
+    "faceobj_3": {
+        "img_paths": [
+            "Images/humanobj/human/crop_man/commoner/9.jpg",
+            "Images/humanobj/thing/animal/dog/6.jpg",
+            "Images/humanobj/environment/seaside/10.jpg"
+        ],
+        "prompt": "A man is standing on the beach, holding a dog in his arms.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Dog",
+            "Seaside"
+        ]
+    },
+    "faceobj_4": {
+        "img_paths": [
+            "Images/humanobj/human/crop_man/commoner/8.jpg",
+            "Images/humanobj/thing/ball/1.jpg",
+            "Images/humanobj/environment/special/23.jpg"
+        ],
+        "prompt": "A man is playing soccer on a football field.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Ball",
+            "Football Field"
+        ]
+    },
+    "faceobj_5": {
+        "img_paths": [
+            "Images/humanobj/human/crop_man/commoner/7.jpg",
+            "Images/humanobj/thing/ball/2.jpg",
+            "Images/humanobj/environment/seaside/3.jpg"
+        ],
+        "prompt": "A man is playing with a beach ball by the sea.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Ball",
+            "Seaside"
+        ]
+    },
+    "faceobj_6": {
+        "img_paths": [
+            "Images/humanobj/human/crop_man/synthesis/1.png",
+            "Images/humanobj/thing/ball/4.jpg",
+            "Images/humanobj/environment/seaside/5.jpg"
+        ],
+        "prompt": "A man is playing with an American football on the beach.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Ball",
+            "Seaside"
+        ]
+    },
+    "faceobj_7": {
+        "img_paths": [
+            "Images/humanobj/human/crop_man/synthesis/2.png",
+            "Images/humanobj/thing/ball/5.jpg",
+            "Images/humanobj/environment/seaside/6.jpg"
+        ],
+        "prompt": "A man throws a baseball on the beach.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Ball",
+            "Seaside"
+        ]
+    },
+    "faceobj_8": {
+        "img_paths": [
+            "Images/humanobj/human/crop_man/synthesis/3.png",
+            "Images/humanobj/thing/ball/6.jpg",
+            "Images/humanobj/environment/seaside/4.jpg"
+        ],
+        "prompt": "A man is playing with a ball on the beach.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Ball",
+            "Seaside"
+        ]
+    },
+    "faceobj_9": {
+        "img_paths": [
+            "Images/humanobj/human/crop_man/synthesis/4.png",
+            "Images/humanobj/thing/clothes/6.png",
+            "Images/humanobj/environment/seaside/9.jpg"
+        ],
+        "prompt": "A man is standing on the street, wearing pink basketball shorts with a white Jumpman logo and the text 'OWN THE GAME' printed on the side. The shorts feature a faded image of a basketball player in action, blending sporty style with urban surroundings.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Clothes",
+            "Seaside"
+        ]
+    },
+    "faceobj_10": {
+        "img_paths": [
+            "Images/humanobj/human/crop_man/synthesis/5.png",
+            "Images/humanobj/thing/clothes/5.png",
+            "Images/humanobj/environment/special/10.jpg"
+        ],
+        "prompt": "A man is standing in the forest, wearing cream-colored Nike sweatpants with black accents. The pants feature a sleek design, with a small Nike logo on the side and zippered pockets, blending comfortably with the natural surroundings.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Clothes",
+            "Park"
+        ]
+    },
+    "faceobj_11": {
+        "img_paths": [
+            "Images/humanobj/human/crop_woman/celebrity/1.jpg",
+            "Images/humanobj/thing/book/0.png",
+            "Images/humanobj/environment/special/11.jpg"
+        ],
+        "prompt": "A woman reads a book on a bridge.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman",
+            "book",
+            "Bridge"
+        ]
+    },
+    "faceobj_12": {
+        "img_paths": [
+            "Images/humanobj/human/crop_woman/celebrity/2.jpg",
+            "Images/humanobj/thing/clothes/4.jpg",
+            "Images/humanobj/environment/special/12.jpg"
+        ],
+        "prompt": "A woman reads a book alone in the wilderness, wearing a white t-shirt with a pink and red square pattern. The shirt has short flutter sleeves, and she appears relaxed and content as she enjoys her time in the natural surroundings",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman",
+            "Clothes",
+            "Desert"
+        ]
+    },
+    "faceobj_13": {
+        "img_paths": [
+            "Images/humanobj/human/crop_woman/celebrity/3.jpg",
+            "Images/humanobj/thing/clothes/3.jpg",
+            "Images/humanobj/environment/special/13.jpg"
+        ],
+        "prompt": "A woman stands on the bridge, wearing a black one-piece swimsuit with the Nike Air logo across the front. The swimsuit fits snugly, and she poses confidently against the backdrop of the bridge, her arms relaxed by her sides.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman",
+            "Clothes",
+            "Bridge"
+        ]
+    },
+    "faceobj_14": {
+        "img_paths": [
+            "Images/humanobj/human/crop_woman/celebrity/4.jpg",
+            "Images/humanobj/thing/clothes/2.jpg",
+            "Images/humanobj/environment/special/14.jpg"
+        ],
+        "prompt": "A woman stands in front of a shop, wearing a simple black oversized t-shirt with a small logo on the chest. The t-shirt is paired with casual attire, and she stands confidently, holding nothing in her hands as she gazes around the scene.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman",
+            "Clothes",
+            "Square"
+        ]
+    },
+    "faceobj_15": {
+        "img_paths": [
+            "Images/humanobj/human/crop_woman/celebrity/5.jpg",
+            "Images/humanobj/thing/clothes/1.jpg",
+            "Images/humanobj/environment/special/20.jpg"
+        ],
+        "prompt": "A young woman with fair skin stands before the Parthenon, wearing a sleeveless, mint-green lace top with a high collar and a floral pattern. The top is paired with black trousers. She gazes softly ahead, with the ancient ruins of the Parthenon clearly visible in the background under a muted sky.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman",
+            "Clothes",
+            "Grassland"
+        ]
+    },
+    "multiface_1": {
+        "img_paths": [
+            "Images/multiface/crop_woman/1.jpg",
+            "Images/multiface/crop_woman/2.jpg",
+            "Images/multiface/scene/1.jpg"
+        ],
+        "prompt": "The video depicts an indoor scene where two individuals are engaged in a conversation. The setting appears to be a well-lit room with natural light streaming through large windows. The room is furnished with a wheelchair positioned near the back, suggesting it might be a medical or care facility. A desk with a laptop and some other items is visible on the right side of the frame.\n\nThe person on the left, dressed in a gray uniform, is holding a tablet and gesturing with her hands while speaking. Her posture indicates she is explaining something, possibly related to the tablet's content. The individual on the right, wearing a light-colored robe, is seated and listening attentively, smiling slightly, which suggests a positive interaction.\n\nThe camera remains static throughout the sequence, focusing on capturing the interaction between the two individuals. There is no noticeable camera movement such as panning or zooming. The overall atmosphere seems calm and professional, with the focus on the exchange between the two people.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Woman",
+            "Bedroom"
+        ]
+    },
+    "multiface_2": {
+        "img_paths": [
+            "Images/multiface/crop_woman/3.jpg",
+            "Images/multiface/crop_man/1.jpg",
+            "Images/multiface/crop_man/2.jpg"
+        ],
+        "prompt": "The video captures three individuals seated outdoors on a bench, engaged with electronic devices. The setting appears to be a park or a similar public space, with trees and greenery visible in the background. The lighting suggests it is daytime, possibly late afternoon given the softness of the light.\n\nThe person on the left, wearing a green and white checkered shirt, is focused on a smartphone, occasionally gesturing with his hands as if explaining something. The individual in the middle, dressed in a beige sweater, holds a tablet and looks intently at it, occasionally turning his head slightly towards the person next to him. The person on the right, clad in a peach-colored cardigan and sunglasses hanging around her neck, also uses a tablet and seems to be listening or observing the others.\n\nThroughout the video, there is minimal movement among the individuals. They remain seated closely together, maintaining their focus on their respective devices. The camera remains static, capturing the scene without any noticeable panning or zooming. The overall atmosphere is casual and relaxed, suggesting a moment of shared activity or conversation facilitated by technology.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man",
+            "Man"
+        ]
+    },
+    "multiface_3": {
+        "img_paths": [
+            "Images/multiface/crop_woman/4.jpg",
+            "Images/multiface/crop_man/3.jpg"
+        ],
+        "prompt": "The video depicts two individuals seated on a gray couch in a modern living room. The woman, dressed in a light gray off-the-shoulder sweater and blue jeans, appears distressed, covering her face with her hand and leaning forward. The man, wearing a blue long-sleeve shirt and jeans, is animatedly gesturing with his hands, seemingly speaking emphatically or arguing. His body language suggests he is trying to communicate something important.\n\nThe setting is a well-lit room with neutral-colored walls and a minimalist design. A lamp with a round shade is visible in the background, along with a kitchen area featuring wooden cabinets and a countertop. The overall atmosphere seems tense, indicated by the woman's body language and the man's expressive gestures.\n\nThere is no significant camera movement; the shot remains static throughout the sequence, focusing on capturing the interaction between the two individuals. The woman's posture shifts slightly as she covers her face and leans forward, while the man continues to gesture actively. The scene does not show any other people or notable objects moving within the frame.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man"
+        ]
+    },
+    "multiface_4": {
+        "img_paths": [
+            "Images/multiface/crop_woman/5.jpg",
+            "Images/multiface/crop_woman/6.jpg",
+            "Images/multiface/crop_woman/7.jpg"
+        ],
+        "prompt": "The video captures a lively scene featuring three women dressed in glamorous, sequined outfits, celebrating with gifts. They stand against a backdrop of twinkling fairy lights, creating a festive atmosphere. Each woman holds a wrapped gift box, which they occasionally toss into the air, adding to the celebratory mood. Their movements are energetic; they dance and jump, their hair bouncing with each step. The camera remains static throughout, focusing on capturing the joyful expressions and interactions among the women. The overall setting suggests a party or holiday celebration, with the bright lights and festive attire enhancing the cheerful ambiance.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Woman",
+            "Woman"
+        ]
+    },
+    "multiface_5": {
+        "img_paths": [
+            "Images/multiface/crop_woman/8.jpg",
+            "Images/multiface/crop_man/4.jpg"
+        ],
+        "prompt": "The video captures two individuals taking a selfie together in an indoor setting. The man is holding a smartphone with his right hand extended forward, capturing the photo. He is dressed in a light gray blazer over a white shirt. The woman beside him has long blonde hair and is wearing a white top. Both are smiling broadly, appearing cheerful and engaged in the moment.\n\nThe background suggests they are in a modern office or a similar professional environment, with a mix of neutral tones and greenery visible behind them. The lighting is bright and even, likely from overhead fluorescent lights, which illuminates the scene clearly without harsh shadows.\n\nAs the video progresses, there is minimal change in the positioning of the subjects. They maintain their close proximity and continue to smile at the camera. The man's arm remains steady, holding the phone at arm's length, while the woman slightly adjusts her position to ensure she is within the frame. The overall atmosphere conveys a sense of camaraderie and lightheartedness.\n\nThe camera remains static throughout the sequence, focusing on the two individuals as they pose for the selfie. There is no noticeable panning, tilting, or zooming, keeping the framing consistent and centered on the subjects. The video captures a candid and joyful moment shared between the two individuals.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man"
+        ]
+    },
+    "multiface_6": {
+        "img_paths": [
+            "Images/multiface/crop_woman/9.jpg",
+            "Images/multiface/crop_man/5.jpg"
+        ],
+        "prompt": "The video features two individuals, a man and a woman, dancing against a bright yellow background. Both are dressed casually; the man wears a red and black plaid shirt over a white t-shirt, while the woman is in a green button-up shirt layered over a white top. They appear to be enjoying themselves, smiling and laughing throughout the sequence.\n\nInitially, they stand side by side, facing forward. The man starts by moving his arms in a rhythmic fashion, clapping and gesturing as if he's leading the dance. The woman mirrors his movements, clapping her hands and swaying slightly. As the sequence progresses, both individuals become more animated, raising their arms and moving their bodies energetically. Their facial expressions convey joy and enthusiasm, suggesting they are thoroughly engaged in the activity.\n\nThe camera remains static throughout the video, focusing on capturing the full-body movements of the dancers without any noticeable panning or zooming. The consistent yellow backdrop provides a vibrant contrast to their clothing and enhances the lively atmosphere of the scene. The overall impression is one of fun and camaraderie, with the dancers fully immersed in their playful routine.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man"
+        ]
+    },
+    "multiface_7": {
+        "img_paths": [
+            "Images/multiface/crop_woman/10.jpg",
+            "Images/multiface/crop_man/6.jpg"
+        ],
+        "prompt": "The video captures a scene inside a cozy caf\u00e9 with large windows offering a view of an urban landscape outside. A man and a woman are seated at a table, engaged in conversation. The woman, dressed in a dark top, leans forward slightly, gesturing with her hands as she speaks. The man, wearing a gray shirt, listens attentively, nodding his head occasionally.\n\nThe caf\u00e9 is warmly lit by hanging lamps, casting soft shadows around the room. The walls are adorned with floral patterns and shelves holding various items, adding to the inviting atmosphere. The table is cluttered with cups, utensils, and napkins, suggesting they have been there for some time.\n\nOutside the window, the cityscape is visible, featuring modern buildings and a busy street with cars passing by. The lighting suggests it's daytime, possibly late morning or early afternoon, given the brightness and the shadows cast inside the caf\u00e9.\n\nThe camera remains stationary throughout the sequence, focusing on the interaction between the two individuals. There is no noticeable camera movement, such as panning or zooming, which allows the viewer to concentrate on the subtle gestures and expressions of the man and woman as they converse. The overall mood appears relaxed and casual, reflecting a typical caf\u00e9 setting where people come to chat and enjoy their surroundings.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man"
+        ]
+    },
+    "multiface_8": {
+        "img_paths": [
+            "Images/multiface/crop_man/7.jpg",
+            "Images/multiface/crop_woman/11.jpg",
+            "Images/multiface/scene/2.jpg"
+        ],
+        "prompt": "The video captures a cozy indoor scene featuring a couple sitting closely on a beige couch. The woman is holding a tablet and appears engaged with its content, smiling warmly. The man, seated beside her, leans in affectionately, his arm around her shoulders, and gestures towards the tablet screen, possibly discussing something amusing or interesting. Both individuals exhibit relaxed and happy expressions.\n\nThe background reveals a simple, modern living room setting with neutral tones. A white vase and a black decorative object sit on a shelf behind them, adding subtle decor elements to the space. The lighting is soft and natural, suggesting daytime. The overall atmosphere is warm and intimate, highlighting a moment of shared enjoyment and connection between the two individuals.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Man",
+            "Woman",
+            "Livingroom"
+        ]
+    },
+    "multiface_9": {
+        "img_paths": [
+            "Images/multiface/crop_woman/12.jpg",
+            "Images/multiface/crop_woman/13.jpg"
+        ],
+        "prompt": "The video showcases two individuals engaged in a yoga session within an indoor setting, likely a yoga studio or a room designated for exercise. Both participants are dressed in black athletic attire, consisting of tank tops and leggings, and are seated on yoga mats. The person on the left has a tattoo on their upper left arm, while the individual on the right has their hair tied back. The room is characterized by a neutral color scheme, with a gray curtain in the background and a light-colored floor. The lighting is soft and even, suggesting an indoor environment with artificial lighting.\n\nInitially, both individuals are seen in a seated position with their legs crossed, hands resting on their knees, and backs straight, indicating the beginning of a yoga pose or a moment of rest between poses. As the video progresses, they transition into a forward bend pose, extending their arms behind them to touch the floor, with their heads tilted downwards towards their legs. This movement suggests a progression in their yoga routine, focusing on flexibility and relaxation.\n\nThroughout the video, there is no significant change in the environment or the participants' attire, maintaining a consistent setting for the yoga session. The camera remains static, providing a clear and unobstructed view of the individuals and their movements without any panning, tilting, or zooming. The focus is solely on the yoga practice, capturing the fluidity and grace of the poses being performed.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Woman"
+        ]
+    },
+    "multiface_10": {
+        "img_paths": [
+            "Images/multiface/crop_woman/14.jpg",
+            "Images/multiface/crop_man/8.jpg",
+            "Images/multiface/scene/3.jpg"
+        ],
+        "prompt": "The video depicts a scene set in a medical office, likely during the daytime given the bright light filtering through the blinds. A doctor, dressed in a white coat and glasses, is seated at a desk with a laptop open in front of him. He appears engaged in conversation with a patient who is seated across from him in a wheelchair. The patient, wearing a dark blue sweater over a collared shirt, is smiling warmly and gesturing with her hands, indicating an animated discussion.\n\nThe doctor leans slightly forward, resting his arm on the desk while maintaining eye contact with the patient. His posture suggests attentiveness and a friendly demeanor. The background includes a large window with blinds partially drawn, allowing natural light to illuminate the room. A potted plant sits near the window, adding a touch of greenery to the otherwise clinical setting. The overall atmosphere is one of positive interaction and communication between the two individuals.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man",
+            "Office"
+        ]
+    },
+    "multiface_11": {
+        "img_paths": [
+            "Images/multiface/crop_man/9.jpg",
+            "Images/multiface/crop_woman/15.jpg",
+            "Images/multiface/scene/4.jpg"
+        ],
+        "prompt": "The video depicts two individuals sitting closely on a beige couch covered with a matching beige slipcover. The man is seated on the left side, wearing a maroon t-shirt and blue jeans, while the woman sits beside him, dressed in a purple plaid shirt and dark blue jeans. She has her arm around his shoulder, suggesting a friendly or intimate relationship.\n\nThe man is focused on a silver laptop placed on his lap, occasionally moving his hands to interact with it. The woman leans in towards the laptop, pointing at the screen with her right hand, indicating she might be explaining something or showing him something specific. Her facial expression suggests engagement and interest.\n\nThe background shows large windows with a view of a cityscape, indicating an urban setting. The lighting is bright, suggesting daytime with clear weather outside. The overall atmosphere appears casual and relaxed, with the two individuals comfortably interacting with each other and the laptop.\n\nThere is no significant camera movement; the shot remains static throughout the sequence, focusing on capturing the interaction between the two individuals and their shared activity on the laptop.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Man",
+            "Woman",
+            "Livingroom"
+        ]
+    },
+    "multiface_12": {
+        "img_paths": [
+            "Images/multiface/crop_woman/16.jpg",
+            "Images/multiface/crop_woman/17.jpg",
+            "Images/multiface/crop_woman/18.jpg"
+        ],
+        "prompt": "The video captures a group of three young women enjoying a casual outdoor gathering on a patio. They are seated on chairs and a bench, surrounded by greenery and potted plants, suggesting a relaxed, sunny day. The setting appears to be a residential area with white railings and balconies visible in the background.\n\nThe women are holding drinks in glass bottles, with one containing a light-colored beverage and another a darker, possibly fruit-based drink. They are clinking their bottles together in a toast, indicating camaraderie and celebration. One woman is lying back on a cushioned chair, using her smartphone, while the others sit upright, smiling and engaging with each other.\n\nThe camera remains static throughout the sequence, focusing on capturing the interaction among the women. There is no noticeable camera movement, such as panning or zooming, which allows for a clear view of their expressions and actions. The overall atmosphere is cheerful and laid-back, emphasizing the bond between the friends as they share a moment of leisure.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Woman",
+            "Woman"
+        ]
+    },
+    "multiface_13": {
+        "img_paths": [
+            "Images/multiface/crop_woman/19.jpg",
+            "Images/multiface/crop_man/10.jpg",
+            "Images/multiface/scene/5.jpg"
+        ],
+        "prompt": "The video captures a serene and static scene of two individuals seated on a couch in a cozy living room setting. The person on the left is holding a blue bottle, possibly a beverage, while the individual on the right is holding a white bowl, which could contain snacks. They are both dressed casually, with the person on the left wearing a light-colored top and the one on the right in a red and black checkered shirt. The room is warmly lit by a floor lamp to their left, casting a soft glow that enhances the intimate atmosphere. The walls are painted a dark blue, contrasting with the lighter tones of the furniture and the individuals' clothing. An open doorway in the background leads to another room, suggesting a home environment. Throughout the video, there is no noticeable change in the positions or actions of the individuals, nor any significant movement or alteration in the camera's perspective. The scene remains consistent, emphasizing a moment of quiet companionship and relaxation.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man",
+            "Bedroom"
+        ]
+    },
+    "multiface_14": {
+        "img_paths": [
+            "Images/multiface/crop_man/11.jpg",
+            "Images/multiface/crop_woman/20.jpg"
+        ],
+        "prompt": "The video opens with a serene outdoor scene at 00:00, featuring two individuals standing in a field of tall grass. The setting is a rural area with a clear sky and a few scattered trees in the background. The person on the left, wearing a white shirt, is holding a smartphone and appears to be taking a selfie. The person on the right, dressed in a sleeveless top, is leaning against the other person, suggesting a close relationship. The lighting indicates it is either early morning or late afternoon, creating a warm and calm atmosphere.\n\nFrom 00:00 to 00:13, the scene remains largely unchanged. The two individuals continue to pose for the selfie, maintaining their positions and expressions. The camera remains static, capturing the serene and intimate moment between the two people in the tranquil rural setting. The tall grass sways gently in the breeze, adding to the peaceful ambiance. The background remains consistent, with the trees and clear sky providing a picturesque backdrop. The overall mood of the video is one of calmness and connection, as the two individuals enjoy their time together in the beautiful outdoor setting.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Man",
+            "Woman"
+        ]
+    },
+    "multiface_15": {
+        "img_paths": [
+            "Images/multiface/crop_woman/21.jpg",
+            "Images/multiface/crop_man/12.jpg",
+            "Images/multiface/scene/6.jpg"
+        ],
+        "prompt": "The video depicts two individuals engaged in a stretching exercise inside a bright, modern living room. The room is well-lit with natural light streaming through large windows covered by sheer white curtains. The walls are painted a soft off-white, complementing the light wooden flooring.\n\nThe man, dressed in a teal tracksuit, and the woman, wearing a black sports bra and leggings, are positioned on the floor facing each other. They are performing a side stretch, with one leg extended forward and the other bent behind them. Both have their arms raised above their heads, reaching towards the extended leg. Their movements are synchronized, suggesting they are practicing together.\n\nIn the background, there's a cozy setup with a gray armchair adorned with a blue cushion, a small white table holding a vase of yellow flowers, and a few books. A white lamp with an arched base stands near the table, adding to the room's minimalist aesthetic. A massage table is visible on the left side of the frame, hinting at a wellness or therapy setting.\n\nThe camera remains static throughout the sequence, capturing the entire scene without any noticeable movement or change in perspective. The focus stays on the two individuals as they perform their stretches, emphasizing their coordinated movements and the serene environment around them.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man",
+            "Bedroom"
+        ]
+    },
+    "multihuman_1": {
+        "img_paths": [
+            "Images/multihuman/man/1.jpg",
+            "Images/multihuman/woman/1.jpg"
+        ],
+        "prompt": "The video depicts an elderly couple sitting on a light gray sofa in a well-lit living room. The man, dressed in a light blue shirt and brown pants, is holding a laptop on his lap, while the woman, wearing a checkered blouse and beige shorts, leans in closely, resting her arm on his shoulder. Both individuals appear engaged with the laptop screen, occasionally gesturing towards it with their hands.\n\nAs the video progresses, the couple's expressions change from focused to surprised and then to joyful. The man raises his hand in a gesture of excitement, while the woman laughs heartily, her head tilted back slightly. Their body language suggests a shared moment of amusement or discovery.\n\nThe background reveals a modern living room with a bookshelf filled with books and decorative items, a small table with a lamp, and a window letting in natural light. The overall atmosphere is cozy and domestic, emphasizing a relaxed and intimate setting. There is no noticeable camera movement; the shot remains static throughout the sequence, capturing the couple's interaction with the laptop and their reactions.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Man",
+            "Woman"
+        ]
+    },
+    "multihuman_2": {
+        "img_paths": [
+            "Images/multihuman/woman/2.jpg",
+            "Images/multihuman/man/2.jpg"
+        ],
+        "prompt": "The video depicts two individuals seated at a table, engaged in a discussion while looking at a tablet device. The person on the left is dressed in blue scrubs, indicative of a healthcare professional, and is holding the tablet. The individual on the right is wearing a white lab coat over a collared shirt and tie, suggesting they are a doctor or medical professional. Both appear focused on the tablet screen, occasionally gesturing towards it as they converse.\n\nThe setting appears to be an indoor space with large windows allowing ample natural light to enter, creating a bright and airy atmosphere. Outside the windows, there is a view of greenery, possibly trees or bushes, indicating the presence of nature nearby. The table they are sitting at is simple and clean, with minimal items on it except for the tablet and some papers.\n\nThe camera remains stationary throughout the sequence, maintaining a medium shot that captures both individuals from the waist up. There is no noticeable camera movement such as panning or zooming, keeping the focus steady on the interaction between the two professionals. The overall scene suggests a collaborative work environment, likely within a medical or healthcare facility.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man"
+        ]
+    },
+    "multihuman_3": {
+        "img_paths": [
+            "Images/multihuman/woman/3.jpg",
+            "Images/multihuman/woman/4.jpg",
+            "Images/multihuman/woman/5.jpg"
+        ],
+        "prompt": "The video captures a group of women gathered in a cozy living room, engaging in a celebratory event. They are seated on a light-colored sofa, surrounded by a warm and inviting atmosphere. The room is well-lit, suggesting it's daytime, with soft natural light streaming through a window.\n\nThe women are exchanging gifts, with one woman in a red dress holding a gift box while others reach out to take theirs. The gift boxes vary in color and design, with some featuring polka dots and others striped patterns. The women are smiling and laughing, indicating a joyful and friendly interaction.\n\nThe background includes a mix of furniture such as a side table and a television, along with decorative elements like a vase of flowers and framed artwork on the wall. The overall setting suggests a comfortable and intimate gathering, likely a birthday or baby shower celebration.\n\nAs the video progresses, the camera pans slightly to the right, revealing more of the room and the women's interactions. The focus remains on the exchange of gifts and the expressions of happiness among the participants. The camera movement is smooth, maintaining a steady view of the scene without abrupt changes.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Woman",
+            "Woman"
+        ]
+    },
+    "multihuman_4": {
+        "img_paths": [
+            "Images/multihuman/woman/6.jpg",
+            "Images/multihuman/man/3.jpg"
+        ],
+        "prompt": "The video depicts an office setting where a woman is seated in a black leather chair, wearing a white V-neck sweater and black pants. She appears to be engaged in some form of activity, possibly working or waiting, as she shifts her posture slightly throughout the sequence. Her head moves from side to side, suggesting she might be listening to something or looking around.\n\nIn the background, a man is seated at a desk, dressed in a dark suit and tie, focused on his smartphone. He remains stationary, absorbed in his device, indicating he is likely checking messages or browsing.\n\nThe office environment includes modern furnishings such as a sleek desk and a potted plant near the window, which allows natural light to filter into the room. The window reveals a view of another building across the street, suggesting an urban setting. The overall atmosphere is professional and calm, with no significant changes in lighting or weather conditions visible within the video. The camera maintains a static shot throughout, capturing the scene without any noticeable movement or zooming.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man"
+        ]
+    },
+    "multihuman_5": {
+        "img_paths": [
+            "Images/multihuman/man/4.jpg",
+            "Images/multihuman/woman/7.jpg",
+            "Images/multihuman/scene/1.jpg"
+        ],
+        "prompt": "The video captures two individuals engaged in cross-country skiing on a snowy landscape during what appears to be late afternoon or early evening, judging by the warm, golden light of the setting sun. The background is a dense forest of bare trees, suggesting it's winter.\n\nThe person on the left is dressed in a bright yellow jacket with black pants and a hood, while the individual on the right wears a teal-colored ski suit with a matching hat. Both are equipped with ski poles and appear to be gliding smoothly across the snow. Their body language suggests they are enjoying the activity, with relaxed postures and occasional smiles directed at each other, indicating a friendly interaction.\n\nThe camera remains static throughout the sequence, focusing on the two skiers as they move forward. There is no significant change in the camera angle or position, maintaining a consistent view of the skiers against the backdrop of the forest and the soft glow of the sunset. The snow-covered ground and the trees in the background remain constant, emphasizing the serene and peaceful environment. The skiers' movement is steady and continuous, with their arms swinging rhythmically as they propel themselves forward.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Man",
+            "Woman",
+            "Snow"
+        ]
+    },
+    "multihuman_6": {
+        "img_paths": [
+            "Images/multihuman/woman/8.jpg",
+            "Images/multihuman/man/5.jpg"
+        ],
+        "prompt": "The video captures a scene set indoors, likely in an art studio or classroom, where two individuals are engaged in a creative activity. The primary focus is on a man seated at an easel, actively painting on a canvas. He is wearing a white shirt and a dark apron splattered with paint, indicating his involvement in the artistic process. His posture suggests concentration as he works on his artwork.\n\nA woman stands beside him, leaning slightly forward with her arms around his shoulders. She is dressed in a denim jacket and a patterned dress, her hands resting gently on his shoulders and occasionally gesturing towards the canvas. Her body language conveys a sense of encouragement and support as she interacts with the artist.\n\nThe background reveals shelves filled with various art supplies, including jars and containers, suggesting a well-equipped workspace. A partially visible painting on the wall adds to the artistic ambiance of the setting. The lighting appears bright and even, illuminating the scene without harsh shadows, which enhances the clarity of the environment.\n\nThroughout the video, there is minimal movement from both individuals. The woman remains mostly stationary, her gestures directed towards the canvas, while the man continues his painting. The camera maintains a steady, static shot focused on capturing the interaction between the two figures and their shared artistic endeavor. There are no significant changes in the positioning or actions of the subjects, and the overall atmosphere is one of calm collaboration and creativity.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man"
+        ]
+    },
+    "multihuman_7": {
+        "img_paths": [
+            "Images/multihuman/man/6.jpg",
+            "Images/multihuman/man/7.jpg",
+            "Images/multihuman/scene/2.jpg"
+        ],
+        "prompt": "The video depicts two men engaged in a discussion within an office setting. The man on the left, dressed in a white shirt and gray pants, is holding a tablet and appears to be explaining something to the other man. The man on the right, wearing a light blue shirt and jeans, listens attentively while occasionally gesturing with his hand. A third person briefly walks past them from right to left, partially obscuring the view.\n\nThe office environment includes a whiteboard, a desk cluttered with papers and a water bottle, and several black chairs arranged around the table. The walls are painted white, and the ceiling features a grid of fluorescent lights. The lighting suggests it's daytime, though no windows are visible in the frame.\n\nThe camera remains stationary throughout the sequence, capturing the interaction between the two men. There is no noticeable change in the camera angle or zoom level, maintaining a consistent view of the scene. The focus stays on the two individuals and their interaction with the tablet, with the passing individual serving as a brief interruption.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Man",
+            "Man",
+            "Office"
+        ]
+    },
+    "multihuman_8": {
+        "img_paths": [
+            "Images/multihuman/man/8.jpg",
+            "Images/multihuman/woman/9.jpg"
+        ],
+        "prompt": "The video depicts a scene set outdoors on a sunny day, likely during breakfast or brunch. A couple is seated at a table covered with a patterned tablecloth, enjoying a casual moment together. The woman, dressed in a light gray tank top, is pouring coffee from a French press into two white cups placed on saucers. Her hair is long and dark, and she has red nail polish. The man, wearing a green t-shirt, is smiling and appears engaged in conversation with her. He gestures with his hands while speaking, and at one point, he reaches across the table to take a small piece of bread from a basket.\n\nThe table also holds a small pitcher of milk and a sugar bowl, suggesting they are preparing to add cream and sugar to their coffee. The background features lush greenery and blooming pink flowers, indicating a tropical or subtropical setting. The architecture includes white columns and arches, adding to the serene ambiance.\n\nThroughout the video, the camera remains static, capturing the couple's interaction and the tranquil outdoor environment. The focus stays on the couple and their actions, with no significant camera movements or changes in perspective. The overall mood is relaxed and intimate, highlighting the simple pleasure of sharing a meal in a beautiful setting.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Man",
+            "Woman"
+        ]
+    },
+    "multihuman_9": {
+        "img_paths": [
+            "Images/multihuman/man/9.jpg",
+            "Images/multihuman/man/10.jpg"
+        ],
+        "prompt": "The video depicts two men in an office environment. The primary focus is on a man seated at a desk, working intently on a laptop. He gestures occasionally while speaking, suggesting he might be explaining something or having a conversation. The desk is cluttered with various items, including papers, a notebook, a camera, and a few cups, indicating a busy workday.\n\nAnother man enters the scene from the background, walking towards the seated individual. As he approaches, he leans over the desk, engaging in conversation with the seated man. Both individuals appear focused and collaborative, with the standing man pointing at the laptop screen, possibly discussing its contents.\n\nThe office has a modern aesthetic with light-colored walls, a clock on the wall, and some plants adding a touch of greenery. The furniture includes a white sofa and a wooden chair, contributing to a casual yet professional atmosphere. The lighting is bright, suggesting it's daytime.\n\nThere is no significant camera movement; the shot remains static throughout the sequence, capturing the interaction between the two men. The overall mood is one of productivity and teamwork within a creative workspace.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Man",
+            "Man"
+        ]
+    },
+    "multihuman_10": {
+        "img_paths": [
+            "Images/multihuman/man/11.jpg",
+            "Images/multihuman/woman/10.jpg"
+        ],
+        "prompt": "The video depicts an emotional scene set outdoors, likely in a park or wooded area, given the blurred greenery and trees in the background. The lighting suggests it is daytime, possibly overcast due to the soft shadows.\n\nA man and a woman are the central figures. The man, wearing a light blue denim shirt, has his arm around the woman's shoulder, offering comfort. The woman, dressed in a brown leather jacket, appears distressed, covering her face with her hands at one point. Her posture and facial expression suggest she might be crying or overwhelmed by emotion.\n\nThe man leans in closer to the woman, maintaining physical contact, which indicates he is trying to console her. His body language shows concern and support. The woman's movements are minimal, primarily involving her hands covering her face and then pulling them away slightly.\n\nThe camera remains static throughout the sequence, focusing on capturing the interaction between the two individuals without any noticeable panning or zooming. The framing centers on their upper bodies, emphasizing their facial expressions and gestures. The overall mood conveyed is one of empathy and emotional support within a natural outdoor setting.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Man",
+            "Woman"
+        ]
+    },
+    "multihuman_11": {
+        "img_paths": [
+            "Images/multihuman/woman/11.jpg",
+            "Images/multihuman/man/12.jpg"
+        ],
+        "prompt": "The video opens with a serene outdoor setting in a forest, featuring a green tent and two individuals seated on a log. The scene is set during the daytime, with clear weather and sunlight filtering through the trees. The individuals are dressed casually, with one person wearing a white tank top and patterned shorts, and the other in a plaid shirt and dark pants. They appear to be engaged in a relaxed conversation, with the person in the plaid shirt leaning forward and the other sitting back, holding a stick. The background remains consistent, with the green tent and tall trees providing a tranquil atmosphere. The individuals continue their conversation, occasionally gesturing with their hands. The scene remains static, with no significant changes in the environment or their positions. The video concludes with the same peaceful outdoor setting, maintaining the calm and relaxed ambiance throughout.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man"
+        ]
+    },
+    "multihuman_12": {
+        "img_paths": [
+            "Images/multihuman/woman/12.jpg",
+            "Images/multihuman/man/13.jpg"
+        ],
+        "prompt": "The video captures a heartwarming scene of two young girls riding on the back of an older man in a lush garden setting. The man is bending forward, supporting the girls as they sit on his shoulders. Both girls are smiling broadly, clearly enjoying themselves. The man appears to be laughing and looking at the girls affectionately.\n\nThe background features a well-maintained garden with green shrubs, bushes, and some flowering plants. The lighting suggests it's either late afternoon or early evening, with warm sunlight casting soft shadows. In the distance, there are hints of buildings, possibly houses, nestled among the trees.\n\nThe camera remains relatively steady throughout the sequence, focusing on the interaction between the man and the girls. There is no significant change in the camera angle or position, maintaining a consistent view of the subjects. The motion of the subjects is minimal, with the man slightly shifting his weight and the girls adjusting their positions on his shoulders. The overall atmosphere is one of joy and familial bonding.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man"
+        ]
+    },
+    "multihuman_13": {
+        "img_paths": [
+            "Images/multihuman/woman/13.jpg",
+            "Images/multihuman/man/14.jpg"
+        ],
+        "prompt": "The video features two individuals standing side by side in front of a car, with a building and some greenery in the background. The person on the left is wearing a light blue button-up shirt and is holding a car key fob in their right hand, raised slightly above shoulder level. The individual on the right is dressed in a light-colored, possibly beige, button-up shirt with a subtle pattern. Both individuals are facing the camera, and their posture suggests they are posing for the photo. Throughout the video, there are no significant changes in their positions, expressions, or the environment around them. The lighting remains consistent, indicating that the video was likely taken in a single continuous shot without any noticeable camera movement or action progression.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man"
+        ]
+    },
+    "multihuman_14": {
+        "img_paths": [
+            "Images/multihuman/woman/14.jpg",
+            "Images/multihuman/woman/15.jpg"
+        ],
+        "prompt": "The video depicts two women seated at a kitchen table, enjoying breakfast. The woman on the left has long blonde hair and is enthusiastically eating a croissant, taking large bites and savoring the moment. She appears to be enjoying her food. The woman on the right has short dark hair and is holding an apple, looking somewhat disinterested or perhaps even slightly annoyed by the other's behavior. She seems to be contemplating whether to eat the apple or not.\n\nThe kitchen setting is modern and clean, with white cabinets and a light-colored backsplash. On the counter behind them, there are jars containing what appear to be cereals or dried fruits, adding to the breakfast atmosphere. A small potted plant sits on the counter, adding a touch of greenery to the scene. The table they are sitting at is covered with a light-colored tablecloth, and there are two mugs, one next to each woman, suggesting they are having coffee or tea with their meal.\n\nThe camera remains static throughout the sequence, focusing on capturing the interaction between the two women and their breakfast. There is no noticeable camera movement, such as panning or zooming, which allows the viewer to observe the subtle dynamics between the two individuals. The overall mood of the video suggests a casual, everyday moment shared between friends or family members.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Woman"
+        ]
+    },
+    "multihuman_15": {
+        "img_paths": [
+            "Images/multihuman/woman/2.jpg",
+            "Images/multihuman/man/2.jpg"
+        ],
+        "prompt": "The video depicts an elderly couple sitting on a light gray sofa in a well-lit living room. The man, dressed in a light blue shirt and brown pants, is holding a laptop on his lap, while the woman, wearing a checkered blouse and beige shorts, leans in closely, resting her arm on his shoulder. Both individuals appear engaged with the laptop screen, occasionally gesturing towards it with their hands.\n\nAs the video progresses, the couple's expressions change from focused to surprised and then to joyful. The man raises his hand in a gesture of excitement, while the woman laughs heartily, her head tilted back slightly. Their body language suggests a shared moment of amusement or discovery.\n\nThe background reveals a modern living room with a bookshelf filled with books and decorative items, a small table with a lamp, and a window letting in natural light. The overall atmosphere is cozy and domestic, emphasizing a relaxed and intimate setting. There is no noticeable camera movement; the shot remains static throughout the sequence, capturing the couple's interaction with the laptop and their reactions.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Man"
+        ]
+    },
+    "singleface_1": {
+        "img_paths": [
+            "Images/singleface/crop_man/2.png"
+        ],
+        "prompt": "The video features a young man standing outdoors in a snowy park. he is wearing a colorful winter jacket with a floral pattern and a white knit hat. The background shows a snowy landscape with trees, benches, and a metal fence. The ground is covered in snow, and there is a light snowfall in the air. The man appears to be enjoying the winter weather, as he smiles and gives a thumbs-up gesture towards the camera. The overall atmosphere of the video is cheerful and festive, capturing the beauty of a snowy day in a park.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_2": {
+        "img_paths": [
+            "Images/singleface/crop_man/14.jpg"
+        ],
+        "prompt": "The video features a man walking down a city street at night, engrossed in his smartphone. He is dressed in a formal suit and tie, suggesting he might be a professional or businessman. The street is illuminated with various neon lights and signs, creating a vibrant and lively atmosphere. The man appears to be focused on his phone, possibly texting or browsing, as he walks. The background shows tall buildings with lit-up windows, indicating that this scene takes place in an urban setting. The overall mood of the video is one of modernity and connectivity, with the man's attire and the use of technology highlighting the blend of traditional and contemporary elements in the cityscape.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_3": {
+        "img_paths": [
+            "Images/singleface/crop_man/11.jpg"
+        ],
+        "prompt": "The video features a man sitting in the driver's seat of a car. he is wearing glasses and a dark-colored dress, and his hair is neatly styled. The interior of the car appears to be modern, with a light-colored dashboard and a steering wheel that has some buttons on it. The background outside the car shows greenery, suggesting that the car is parked near a park or a garden. The man seems to be looking out the window, possibly observing something outside. The overall atmosphere of the video is calm and serene.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_4": {
+        "img_paths": [
+            "Images/singleface/crop_man/3.png"
+        ],
+        "prompt": "The video features a man standing next to an airplane, engaged in a conversation on his cell phone. he is wearing sunglasses and a black top, and he appears to be talking seriously. The airplane has a green stripe running along its side, and there is a large engine visible behind his. The man seems to be standing near the entrance of the airplane, possibly preparing to board or just having disembarked. The setting suggests that he might be at an airport or a private airfield. The overall atmosphere of the video is professional and focused, with the man's attire and the presence of the airplane indicating a business or travel context.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_5": {
+        "img_paths": [
+            "Images/singleface/crop_man/4.png"
+        ],
+        "prompt": "The video features a man sitting at a desk in front of a large screen displaying an American flag. he is wearing a plaid shirt and appears to be delivering a news report or commentary. The background behind his consists of a large screen with the American flag displayed prominently. The man is speaking, gesturing with his hands as he talks. The setting suggests that this is a newsroom or studio environment where news broadcasts or reports are produced. The American flag on the screen behind his indicates that the content may be related to news stories involving the United States. The man's attire and the professional setup suggest that he is likely a news anchor or reporter. Overall, the video captures a moment in a news broadcast where the man is providing information or commentary, with the American flag serving as a visual backdrop.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_6": {
+        "img_paths": [
+            "Images/singleface/crop_man/13.jpg"
+        ],
+        "prompt": "A man gazing thoughtfully at far away, with a serene expression that reveals a slight furrowing of the brow and a softening around the eyes. His lips part subtly, as if caught in a moment of contemplation or inspiration. The open field around him is expansive, covered in wildflowers that sway gently in the breeze, under a vast, clear blue sky. The full-body shot captures his casual stance, with hands resting in his pockets, and the light breeze tousling his hair slightly.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_7": {
+        "img_paths": [
+            "Images/singleface/crop_man/8.jpg"
+        ],
+        "prompt": "The video features a young man who appears to be a content creator or streamer. he is wearing a green sleeveless top and red headphones. The background is illuminated with vibrant neon lights, predominantly in shades of purple and blue, creating a lively and energetic atmosphere. The man is seated in front of a microphone, suggesting he is recording a podcast, streaming a live broadcast, or engaging in some form of online communication. The setting appears to be a well-lit room with a curtain and a lamp visible in the background, adding to the cozy and inviting ambiance. The man's expression and body language indicate he is actively speaking or singing into the microphone, possibly sharing his thoughts, stories, or performing music. The overall scene conveys a sense of engagement and interaction, likely aimed at an audience who is tuned in to his content.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_8": {
+        "img_paths": [
+            "Images/singleface/crop_man/12.jpg"
+        ],
+        "prompt": "The video features a man sitting in a red armchair, enjoying a cup of coffee or tea. he is dressed in a light-colored outfit and has long dark-haired hair. The setting appears to be indoors, with large windows providing a view of a misty or foggy coastal landscape outside. The room has a modern design with geometric structures visible in the background. There is a small round table next to the armchair, also holding a cup. The overall atmosphere suggests a calm and serene moment, possibly during a cold or rainy day by the sea.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_9": {
+        "img_paths": [
+            "Images/singleface/crop_man/6.png"
+        ],
+        "prompt": "The video features a man jogging along a grassy path next to a body of water, likely a lake or river. he is wearing a white sports bra and appears to be focused on his run. The background shows a serene outdoor setting with green trees and a clear sky, suggesting it is a pleasant day for outdoor activities. The man's hair is tied back, and he seems to be moving at a steady pace, indicating he is likely engaged in a regular exercise routine. The overall atmosphere of the video is peaceful and active, capturing the essence of a healthy lifestyle.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_10": {
+        "img_paths": [
+            "Images/singleface/crop_man/5.png"
+        ],
+        "prompt": "The video features a man dressed in a blue suit and tie, sitting in a newsroom setting. The background includes a large screen displaying various news graphics and text. The man appears to be a news anchor or host, given his professional attire and the context of the setting. The newsroom has a modern design with a mix of wood and glass elements. The text on the screen includes phrases like \"\"NEWSROOM\"\" and \"\"UNIFIED BIOLOGICAL,\"\" suggesting that the news segment might be discussing a biological or scientific topic. The overall atmosphere is professional and focused on delivering news content.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_11": {
+        "img_paths": [
+            "Images/singleface/crop_man/15.jpg"
+        ],
+        "prompt": "The video depicts a young man engaged in an intense gaming session. he is seated in a gaming chair, which is designed to provide ergonomic support and comfort during extended periods of use. The chair has a distinctive design, featuring a logo or emblem on the backrest. The man is wearing a gray sweatshirt and glasses, and he is equipped with a headset that includes a microphone, allowing his to communicate with other players or streamers. The headset is connected to a computer, which is visible in the foreground of the image. The computer setup includes a large monitor, likely an LED or LCD display, which is turned on and showing a game interface. The room has a futuristic and vibrant atmosphere, with neon lights illuminating the space. The lighting creates a dynamic and immersive environment, enhancing the gaming experience. The overall setting suggests a high-tech and immersive gaming environment, possibly in a professional gaming setup or a dedicated gaming room.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_12": {
+        "img_paths": [
+            "Images/singleface/crop_man/10.jpg"
+        ],
+        "prompt": "The video features a young man walking through a park during sunset. he is wearing a sleeveless top with a geometric pattern and denim shorts. The man has long, dark hair that falls over his shoulders. In his hands, he holds a skateboard, which appears to be orange and green in color. The park is lush with greenery, and the sunlight filters through the trees, creating a warm and serene atmosphere. The background includes a building partially obscured by foliage, and other people can be seen in the distance, enjoying the park as well. The overall mood of the video is peaceful and relaxed, capturing a moment of leisure and enjoyment in nature.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_13": {
+        "img_paths": [
+            "Images/singleface/crop_man/1.png"
+        ],
+        "prompt": "The video depicts a young man sitting at a wooden desk, deeply engrossed in his work. he is wearing glasses and has long hair that falls over his shoulders. The man appears to be focused on a document or piece of paper in front of his, as he writes with a pen. his posture suggests concentration and determination. The desk is cluttered with numerous stacks of papers and documents, indicating a busy and possibly overwhelming workload. The lighting in the room is dim, casting shadows and creating a somewhat somber atmosphere. The man's expression is one of intense focus, with his hand resting on his chin, suggesting deep thought or contemplation. The overall scene conveys a sense of hard work and dedication, highlighting the challenges faced by individuals in managing their tasks and responsibilities. The presence of the large piles of paperwork emphasizes the volume of work that needs to be completed, adding to the pressure and stress associated with such tasks.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_14": {
+        "img_paths": [
+            "Images/singleface/crop_man/7.jpg"
+        ],
+        "prompt": "The video features a man standing in front of the camera, his gaze focused and intense as he holds the basketball. He is dressed in athletic gear, his posture exuding concentration. The basketball is positioned firmly in his hands as he prepares for his next move, his body language reflecting his dedication. The setting appears to be an urban street court, with the fading light of dusk casting a soft glow over the scene. The man's serious expression and steady grip on the ball suggest that he is in the midst of a practice session, honing his skills with focused precision. The overall atmosphere of the video is one of determination and discipline, with the man's attire and the basketball court indicating a commitment to the sport.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_15": {
+        "img_paths": [
+            "Images/singleface/crop_man/9.jpg"
+        ],
+        "prompt": "The video features a man with dark-haired hair, wearing a blue tank top and holding a pink tank top on a hanger. he appears to be in a clothing store or a similar retail environment, as there are racks of clothes visible in the background. The man is speaking to the camera, possibly providing a review or discussing the tank top he is holding. he has colorful bracelets on his wrist and is wearing a necklace with multiple beads. his expression suggests he is engaged in a conversation or presentation. The setting seems to be indoors, with artificial lighting illuminating the scene.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ]
+    },
+    "singleface_16": {
+        "img_paths": [
+            "Images/singleface/crop_woman/7.jpg"
+        ],
+        "prompt": "The video features a woman standing outdoors in a serene, natural setting. She is leaning against a tall, white column that is part of a larger structure, possibly a gazebo or pavilion. The woman has long blonde hair and is wearing a light-colored, long dress with a delicate pattern. Her arms are crossed, and she appears to be posing for the camera. The background is lush with greenery, including trees and bushes, suggesting that the location is a park or garden. The lighting is natural, indicating that the video was shot during the day. The overall atmosphere of the video is calm and peaceful, with the woman appearing relaxed and content in her surroundings.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_17": {
+        "img_paths": [
+            "Images/singleface/crop_woman/6.jpg"
+        ],
+        "prompt": "The video features a young woman with long blonde hair standing in front of a lush, green bush adorned with white flowers. She is wearing a black top and appears to be enjoying the natural surroundings. The woman is seen smiling and looking at the camera while gently touching the flowers on the bush. She then bends down slightly and smells one of the flowers, taking in its fragrance. The scene is serene and peaceful, with the woman appearing content and at ease in the beautiful environment. The background consists of more greenery and additional white flowers, creating a picturesque setting. The woman's interaction with the flowers suggests a connection to nature and an appreciation for its beauty. Overall, the video captures a moment of tranquility and natural beauty, with the woman as the central figure.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_18": {
+        "img_paths": [
+            "Images/singleface/crop_woman/9.jpg"
+        ],
+        "prompt": "The video features a woman standing in front of a large screen displaying the words \"\"Tech Minute\"\" and the logo for CNET. She is wearing a purple top and appears to be presenting or speaking about technology-related topics. The background includes a cityscape with tall buildings, suggesting an urban setting. The woman seems to be engaged in a discussion or providing information on technology news or trends. The overall atmosphere is professional and informative, likely aimed at educating viewers about the latest developments in the tech industry.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_19": {
+        "img_paths": [
+            "Images/singleface/crop_woman/4.jpg"
+        ],
+        "prompt": "The video depicts a young woman sitting at a wooden desk, deeply engrossed in her work. She is wearing glasses and has long hair that falls over her shoulders. The woman appears to be focused on a document or piece of paper in front of her, as she writes with a pen. Her posture suggests concentration and determination. The desk is cluttered with numerous stacks of papers and documents, indicating a busy and possibly overwhelming workload. The lighting in the room is dim, casting shadows and creating a somewhat somber atmosphere. The woman's expression is one of intense focus, with her hand resting on her chin, suggesting deep thought or contemplation. The overall scene conveys a sense of hard work and dedication, highlighting the challenges faced by individuals in managing their tasks and responsibilities. The presence of the large piles of paperwork emphasizes the volume of work that needs to be completed, adding to the pressure and stress associated with such tasks.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_20": {
+        "img_paths": [
+            "Images/singleface/crop_woman/13.jpg"
+        ],
+        "prompt": "The video depicts a woman sitting at an office desk, engaged in her work. she is dressed in a formal suit and appears to be focused on her computer screen. The office environment is well-organized, with shelves filled with binders and other office supplies neatly arranged. The woman is holding a red cup, possibly containing a beverage, which she drinks from before setting it down on the desk. she then proceeds to type on the keyboard, indicating that she is working on something on her computer. The overall atmosphere of the video suggests a professional setting where the woman is diligently working on her tasks.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_21": {
+        "img_paths": [
+            "Images/singleface/crop_woman/5.jpg"
+        ],
+        "prompt": "The video features a woman with blonde hair standing on a beach near the water's edge. She is wearing a black swimsuit and appears to be enjoying her time by the sea. The sky above is clear with some clouds, and the ocean waves gently lap against the shore. The woman seems to be holding something white in her hand, possibly a piece of driftwood or a small object found on the beach. The overall atmosphere of the video is serene and relaxing, capturing the beauty of nature and the simple pleasure of being by the ocean.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_22": {
+        "img_paths": [
+            "Images/singleface/crop_woman/11.jpg"
+        ],
+        "prompt": "The video features a woman with blonde hair, wearing a blue tank top and holding a pink tank top on a hanger. She appears to be in a clothing store or a similar retail environment, as there are racks of clothes visible in the background. The woman is speaking to the camera, possibly providing a review or discussing the tank top she is holding. She has colorful bracelets on her wrist and is wearing a necklace with multiple beads. Her expression suggests she is engaged in a conversation or presentation. The setting seems to be indoors, with artificial lighting illuminating the scene.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_23": {
+        "img_paths": [
+            "Images/singleface/crop_woman/14.jpg"
+        ],
+        "prompt": "A woman with an anticipatory smile, her eyes twinkling with excitement as she holds a camera, poised to capture a perfect moment. Her face is animated with enthusiasm; her lips slightly parted as she concentrates on framing the shot. The scene is set in a picturesque landscape, perhaps a mountain range in the background with lush greenery and the golden glow of the sunset. The shot captures her from head to toe, highlighting her engaged stance and the natural beauty surrounding her.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_24": {
+        "img_paths": [
+            "Images/singleface/crop_woman/2.jpg"
+        ],
+        "prompt": "A woman wearing a colorful scarf and cozy sweater, her eyes sparkling with a hint of wonder as she looks around at the falling leaves. Her lips curl into a slight, content smile, adding a touch of warmth to the cool air. Golden and orange leaves cascade softly around her, with the trees forming a vibrant canopy overhead. The shot is captured from the waist up, showcasing her relaxed stance and the intricate patterns of her scarf as they complement the autumn backdrop.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_25": {
+        "img_paths": [
+            "Images/singleface/crop_woman/3.jpg"
+        ],
+        "prompt": "The video features a woman dressed as a mermaid, swimming underwater. She is wearing a silver tail and a matching top, which is adorned with colorful patterns. The woman has long, wavy hair that flows freely underwater. The water around her is clear and blue, with sunlight filtering through the surface, creating a serene and magical atmosphere. The woman appears to be enjoying her time underwater, moving gracefully and exploring her surroundings. The video captures the beauty and wonder of the underwater world, highlighting the enchanting nature of mermaids.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_26": {
+        "img_paths": [
+            "Images/singleface/crop_woman/15.jpg"
+        ],
+        "prompt": "A woman adorned with a delicate flower crown, is standing amidst a field of gently swaying wildflowers. Her eyes sparkle with a serene gaze, and a faint smile graces her lips, suggesting a moment of peaceful contentment. The shot is framed from the waist up, highlighting the gentle breeze lightly tousling her hair. The background reveals an expansive meadow under a bright blue sky, capturing the tranquility of a sunny afternoon.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_27": {
+        "img_paths": [
+            "Images/singleface/crop_woman/8.jpg"
+        ],
+        "prompt": "The video features a woman dressed as a mermaid, swimming underwater. She is wearing a silver tail and a matching top, which is adorned with colorful patterns. The woman has long, wavy hair that flows freely underwater. The water around her is clear and blue, with sunlight filtering through the surface, creating a serene and magical atmosphere. The woman appears to be enjoying her time underwater, moving gracefully and exploring her surroundings. The video captures the beauty and wonder of the underwater world, highlighting the enchanting nature of mermaids.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_28": {
+        "img_paths": [
+            "Images/singleface/crop_woman/10.jpg"
+        ],
+        "prompt": "The video features a woman walking down a city street at night, engrossed in her smartphone. she is dressed in a formal suit and tie, suggesting she might be a professional or businessman. The street is illuminated with various neon lights and signs, creating a vibrant and lively atmosphere. The woman appears to be focused on her phone, possibly texting or browsing, as she walks. The background shows tall buildings with lit-up windows, indicating that this scene takes place in an urban setting. The overall mood of the video is one of modernity and connectivity, with the woman's attire and the use of technology highlighting the blend of traditional and contemporary elements in the cityscape.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_29": {
+        "img_paths": [
+            "Images/singleface/crop_woman/1.jpg"
+        ],
+        "prompt": "The video features a woman standing outdoors in a serene, natural setting. She is leaning against a tall, white column that is part of a larger structure, possibly a gazebo or pavilion. The woman has long blonde hair and is wearing a light-colored, long dress with a delicate pattern. Her arms are crossed, and she appears to be posing for the camera. The background is lush with greenery, including trees and bushes, suggesting that the location is a park or garden. The lighting is natural, indicating that the video was shot during the day. The overall atmosphere of the video is calm and peaceful, with the woman appearing relaxed and content in her surroundings.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "singleface_30": {
+        "img_paths": [
+            "Images/singleface/crop_woman/12.jpg"
+        ],
+        "prompt": "The video features a woman in exquisite hybrid armor adorned with iridescent gemstones, standing amidst gently falling cherry blossoms. Her piercing yet serene gaze hints at quiet determination, as a breeze catches a loose strand of her hair. She stands in a tranquil courtyard framed by moss-covered stone walls and wooden arches, with blossoms casting soft shadows on the ground. The petals swirl around her, adding a dreamlike quality, while the blurred backdrop emphasizes her poised figure. The scene conveys elegance, strength, and tranquil readiness, capturing a moment of peace before an upcoming challenge.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Woman"
+        ]
+    },
+    "multiobject_1": {
+        "img_paths": [
+            "Images/multiobject/monitor/1.jpg",
+            "Images/multiobject/monitor/2.jpg"
+        ],
+        "prompt": "The video showcases a person engaged in work at a desk, with a focus on two computer monitors displaying various content. Initially, the left monitor shows a social media interface with multiple posts and images, while the right monitor displays a grid of images, some of which are blurred, and text boxes with the words \"THE\" and \"SUGGESTIONS.\" The person's hands are visible, interacting with a keyboard and a mouse, indicating active engagement with the content on the screens. The background is dimly lit, suggesting an indoor setting, possibly an office or a home workspace, with other screens and equipment faintly visible, contributing to a professional atmosphere.\n\nAs the video progresses, the content on the monitors changes. The left monitor now shows a social media interface with a large orange heart icon, while the right monitor continues to display a grid of images and text boxes. The person's hands remain active, interacting with the keyboard and mouse, suggesting ongoing work or browsing. The background remains dimly lit, maintaining the professional atmosphere of the indoor setting.\n\nThroughout the video, the focus remains on the person's interaction with the computer equipment, highlighting their engagement with the content displayed on the monitors. The changes in the content on the screens indicate a dynamic work environment, with the person actively navigating through different interfaces and images. The consistent dim lighting and professional setting reinforce the theme of a focused and productive workspace.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Monitor",
+            "Monitor"
+        ]
+    },
+    "multiobject_2": {
+        "img_paths": [
+            "Images/multiobject/basket/1.jpg",
+            "Images/multiobject/pie/1.jpg",
+            "Images/multiobject/cup/1.jpg"
+        ],
+        "prompt": "The video begins with a close-up view of a person's hands, one holding a knife and the other stabilizing a pie on a white plate. The pie, with a golden-brown crust, is being cut into slices. The setting appears to be a kitchen or dining area, indicated by the presence of a basket filled with various fruits and vegetables, a cup, and a book on the table. The person, wearing a light-colored sweater, is seen making a precise cut into the pie, suggesting a careful and deliberate action. As the video progresses, the person lifts a slice of the pie, showcasing its texture and layers, and places it onto a smaller plate. The scene maintains a warm and cozy atmosphere, with soft lighting enhancing the homely feel. Throughout the video, the focus remains on the action of cutting and serving the pie, with the background elements providing context to the setting without distracting from the main activity.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Basket",
+            "Pie",
+            "Cup"
+        ]
+    },
+    "multiobject_3": {
+        "img_paths": [
+            "Images/multiobject/cup/2.jpg",
+            "Images/multiobject/cup/3.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a French press coffee maker on a wooden surface, containing partially brewed coffee, and a blue and white striped mug with a heart design to its left. The background is blurred, suggesting a cozy indoor setting. A person's hand, wearing a blue sleeve, appears and presses down on the plunger of the French press, indicating the completion of the brewing process. The person then lifts the French press and pours the freshly brewed coffee into the mug, with the camera focusing on the pouring action. The coffee flows smoothly into the mug, filling it up. After pouring, the person places the French press back on the wooden surface next to the mug, which is now filled with coffee. The video concludes with a close-up of the filled mug and the French press, emphasizing the freshly brewed coffee and the cozy indoor setting.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Cup",
+            "Cup"
+        ]
+    },
+    "multiobject_4": {
+        "img_paths": [
+            "Images/multiobject/coffee_machine/1.jpg",
+            "Images/multiobject/cup/4.jpg"
+        ],
+        "prompt": "The video begins with a close-up view of a coffee machine, focusing on the area where the coffee is dispensed. A white ceramic cup with a handle is positioned under the spout, ready to receive the coffee. The coffee machine is metallic with a shiny finish, and there is a black lever on the left side of the spout. To the right of the spout, there is a metallic tube with a black label that reads \"HOT MILK / VAPPUCKING.\" The background is blurred, emphasizing the coffee machine and the cup. As the video progresses, coffee starts to flow from the spout into the cup, creating a steady stream of liquid that gradually fills the cup. The coffee appears to be a light brown color, indicating it might be a lighter roast or a blend. The flow of coffee continues, and the cup becomes more filled with each frame. The video captures the entire process of the coffee being dispensed into the cup, showcasing the machine's functionality and the gradual filling of the cup with coffee.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Coffee machine",
+            "Cup"
+        ]
+    },
+    "multiobject_5": {
+        "img_paths": [
+            "Images/multiobject/bottle/1.jpg",
+            "Images/multiobject/pan/1.jpg",
+            "Images/multiobject/bottle/2.jpg"
+        ],
+        "prompt": "The video showcases a cooking process in a kitchen setting. It begins with a person using a long-handled spoon to stir and flip a mixture of vegetables, including red and yellow bell peppers and onions, in a black wok over a gas stove. The vegetables are being cooked at a high temperature, as indicated by the steam rising from the wok. The person then adds a dark liquid, likely soy sauce, from a bottle into the wok, enhancing the flavor of the dish. The background features various bottles and kitchen equipment, suggesting a professional or well-equipped home kitchen environment. The focus remains on the cooking process, highlighting the dynamic movement of the vegetables and the addition of ingredients.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Bottle",
+            "Pan",
+            "Bottle"
+        ]
+    },
+    "multiobject_6": {
+        "img_paths": [
+            "Images/multiobject/plant/1.jpg",
+            "Images/multiobject/bird_house/1.jpg"
+        ],
+        "prompt": "The video begins with a close-up view of a wooden birdhouse with a black roof, set against a backdrop of green foliage and a wooden fence. A blue tit, a small bird with blue and yellow plumage, is seen peeking out from the entrance of the birdhouse. Initially, the bird's head is visible, and it appears to be looking around. As the video progresses, the bird gradually extends its body out of the entrance, revealing more of its blue and yellow feathers. The bird's movements are cautious and deliberate, suggesting it is assessing its surroundings. Throughout the video, the bird's position changes slightly, with its head and body moving in and out of the birdhouse. The background remains consistent, with the green foliage and wooden fence providing a natural setting for the birdhouse. The video captures the bird's interactions with its environment, highlighting its cautious behavior and the gradual exploration of its surroundings.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Plant",
+            "Bird House"
+        ]
+    },
+    "multiobject_7": {
+        "img_paths": [
+            "Images/multiobject/book/1.jpg",
+            "Images/multiobject/cup/5.jpg",
+            "Images/multiobject/ashtray/1.jpg"
+        ],
+        "prompt": "The video begins with a serene and static scene featuring a table covered with a white cloth. On the table, there is a white cup with a floral pattern on a matching saucer, a black plate with a silver fork containing a piece of cake, and an open book with handwritten notes. The lighting is dim, creating a warm and cozy atmosphere. As the video progresses, a stream of liquid, likely coffee or tea, is poured into the cup, adding a dynamic element to the otherwise still setting. The pouring action continues, with the liquid level in the cup rising steadily. Eventually, the pouring stops, and the liquid level in the cup stabilizes. The scene remains consistent throughout, with the focus on the cup, plate, and book, and the background and lighting conditions unchanged. The video concludes with the cup filled to a certain level, maintaining the tranquil and inviting ambiance established at the beginning.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Book",
+            "Cup",
+            "Ashtray"
+        ]
+    },
+    "multiobject_8": {
+        "img_paths": [
+            "Images/multiobject/cup/6.jpg",
+            "Images/multiobject/teapot/1.jpg",
+            "Images/multiobject/vase/1.jpg"
+        ],
+        "prompt": "The video begins with a person standing behind a table, dressed in a red robe with white cuffs, indicating a traditional or cultural setting. On the table, there is a brown clay teapot with a lid, a transparent glass pitcher filled with a golden liquid, and a small white cup with a blue pattern. The person's hands are initially resting on the table, near the teapot and the pitcher. The person then lifts the glass pitcher and pours the golden liquid into the white cup, suggesting the preparation of a beverage, likely tea. After pouring, the person places the pitcher back on the table and picks up the cup, bringing it to their mouth to drink. The background features a bamboo mat, reinforcing the traditional or cultural ambiance of the scene. The video captures a sequence of actions related to the preparation and consumption of a beverage, set against a backdrop that suggests a cultural or traditional context.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Cup",
+            "Teapot",
+            "Vase"
+        ]
+    },
+    "multiobject_9": {
+        "img_paths": [
+            "Images/multiobject/cup/7.jpg",
+            "Images/multiobject/donut/1.jpg"
+        ],
+        "prompt": "The video presents a static scene featuring a white cup filled with black coffee and a chocolate donut with sprinkles, both resting on a white surface. The cup is positioned to the left, while the donut is on the right, with a white napkin partially visible beneath it. The background is a plain, light-colored surface, and the scene is illuminated by natural light, casting shadows to the right of the objects. Throughout the video, there are no changes in the arrangement or appearance of the objects, nor are there any movements or actions observed. The camera maintains a consistent overhead perspective, capturing the scene without any alterations in angle or zoom.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Cup",
+            "Donut"
+        ]
+    },
+    "multiobject_10": {
+        "img_paths": [
+            "Images/multiobject/fireplace/1.jpg",
+            "Images/multiobject/sofa/1.jpg"
+        ],
+        "prompt": "The video showcases a cozy living room setting, characterized by a stone fireplace with a burning fire at its center, which remains the focal point throughout. The room is warmly lit, featuring wooden floors and walls, and is furnished with a sofa, armchairs, a coffee table, and a side table with a lamp. A large window offers a view of a wooded area, enhancing the room's rustic charm. The scene is static, with no changes in the environment, lighting, or arrangement of furniture and decor. The camera maintains a steady perspective, capturing the inviting atmosphere of the living room without any movement or shift in viewpoint.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Fireplace",
+            "Sofa"
+        ]
+    },
+    "multiobject_11": {
+        "img_paths": [
+            "Images/multiobject/desk/1.jpg",
+            "Images/multiobject/chair/1.jpg",
+            "Images/multiobject/flower/1.jpg"
+        ],
+        "prompt": "The video showcases an outdoor dining setup, likely for a special event such as a wedding or celebration, set in a picturesque vineyard or garden. The scene is characterized by a round table covered with a light-colored tablecloth, adorned with a vibrant floral centerpiece featuring roses in shades of peach, pink, and red, complemented by green foliage. The table is meticulously arranged with multiple settings, each consisting of a folded napkin, cutlery, and glassware, indicating preparation for a formal dining experience. The setting is enhanced by the presence of wooden barrels and a wooden bench in the background, contributing to the rustic charm of the location. The chairs surrounding the table are made of light-colored wood, with one chair at the head of the table remaining unoccupied, suggesting a reserved seat for a special guest or the head of the table. The entire scene is bathed in natural daylight, highlighting the serene and inviting atmosphere of the outdoor dining arrangement. Throughout the video, there are no significant changes or movements observed, maintaining a consistent and tranquil ambiance.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Desk",
+            "Chair",
+            "Flower"
+        ]
+    },
+    "multiobject_12": {
+        "img_paths": [
+            "Images/multiobject/cup/8.jpg",
+            "Images/multiobject/scarf/1.jpg"
+        ],
+        "prompt": "The video features an individual standing outdoors in a cold, possibly winter environment, as indicated by their attire and the presence of bare trees in the background. The person is dressed in a beige coat with a matching scarf, suggesting a need for warmth. They are holding a gray cup and saucer in their right hand, which they bring to their mouth to take a sip, indicating they are drinking a hot beverage. The individual's left hand is holding a smartphone, which they appear to be looking at or interacting with, suggesting a moment of pause or relaxation. Throughout the video, the person's actions are consistent, with slight movements as they drink from the cup and possibly interact with the smartphone. The background remains unchanged, featuring bare trees and a neutral-colored wall, reinforcing the outdoor, cold setting. The camera maintains a steady focus on the individual, capturing their upper body and the immediate surroundings without any noticeable movement or shift in perspective.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Cup",
+            "Scarf"
+        ]
+    },
+    "multiobject_13": {
+        "img_paths": [
+            "Images/multiobject/teapot/2.jpg",
+            "Images/multiobject/painting/1.jpg",
+            "Images/multiobject/pillow/1.jpg"
+        ],
+        "prompt": "The video showcases a serene indoor setting with a wooden table in the foreground, adorned with two white cushions, a white teapot, two white cups, and a vase with yellow flowers. The scene is set against a backdrop of a window that overlooks a vast, open landscape under a cloudy sky. Initially, the window is clear, offering a view of the landscape. As the video progresses, rain begins to fall outside, with droplets visible on the window, adding a dynamic element to the otherwise static indoor scene. The rain continues to fall steadily, maintaining the tranquil atmosphere inside the room. Throughout the video, there are no significant changes in the arrangement of objects on the table or the overall composition of the scene. The camera remains stationary, capturing the peaceful indoor setting against the backdrop of the rainy outdoor landscape.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Teapot",
+            "painting",
+            "pillow"
+        ]
+    },
+    "multiobject_14": {
+        "img_paths": [
+            "Images/multiobject/phone/1.jpg",
+            "Images/multiobject/book/2.jpg"
+        ],
+        "prompt": "The video begins with a close-up view of a smartphone with a pink case resting on an open notebook, while a person's hand is seen typing on a laptop keyboard in the background. The scene is set on a light-colored desk, and the focus is on the smartphone and the person's hand. As the video progresses, the smartphone's screen lights up, displaying a notification with a red badge and a message. The person's hand then reaches for the smartphone, picks it up, and interacts with it, possibly swiping or tapping on the screen. The person holds the smartphone in their hand, with the laptop still visible in the background. The video continues with the person holding the smartphone in their left hand, while their right hand is seen typing on the laptop keyboard. The smartphone's screen is off, and the person appears to be interacting with the laptop. The scene remains consistent with the light-colored desk and the open notebook. The video concludes with the person still holding the smartphone in their left hand and continuing to type on the laptop with their right hand.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Phone",
+            "Book"
+        ]
+    },
+    "multiobject_15": {
+        "img_paths": [
+            "Images/multiobject/fireplace/2.jpg",
+            "Images/multiobject/book/3.jpg",
+            "Images/multiobject/chair/2.jpg"
+        ],
+        "prompt": "The video showcases a serene and cozy outdoor setting featuring a stone fireplace with a fire burning inside, situated on a wooden deck. Adjacent to the fireplace is a wicker armchair with a white cushion, and in front of the chair, there is a small wooden table. The deck is surrounded by wooden railings, and the background reveals a dense forest with bare trees, indicating a winter season. The ground is lightly covered with snow, enhancing the wintry atmosphere. Throughout the video, the scene remains consistent with no noticeable changes in the environment, objects, or camera movement, maintaining a tranquil and inviting ambiance.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Fireplace",
+            "Book",
+            "Chair"
+        ]
+    },
+    "multiobject_16": {
+        "img_paths": [
+            "Images/multiobject/bear/1.jpg",
+            "Images/multiobject/bear/2.jpg"
+        ],
+        "prompt": "The video begins with a polar bear in a snowy environment, initially seen from behind with its head lowered towards the snow. The bear's fur is a light tan color, and it has black paws. As the video progresses, the bear turns its head slightly to the right, revealing more of its profile. The bear then lowers its head further into the snow, possibly searching for something. Subsequently, the bear lifts its head and looks upwards, as if observing something in the sky. The bear then sits down on the snow, facing away from the camera, and looks upwards again. The bear turns its head to the right, looking at something off-camera, and then lowers its head towards the snow once more. The bear lifts its head again, this time looking directly at the camera with an open mouth, possibly making a sound or yawning. Throughout the video, the snowy environment remains consistent, with no significant changes in the background or surroundings.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Bear",
+            "Bear"
+        ]
+    },
+    "multiobject_17": {
+        "img_paths": [
+            "Images/multiobject/basketball/1.jpg",
+            "Images/multiobject/shoes/1.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a person's lower legs and feet, dressed in black pants and blue sneakers with yellow laces, standing on a gray asphalt surface. An orange soccer ball with black markings is positioned near the person's feet. The person starts to perform soccer tricks, skillfully maneuvering the ball with their feet. The ball is kicked and controlled with precision, showcasing the person's adept footwork. Throughout the video, the person continues to demonstrate various soccer tricks, maintaining control of the ball with both feet. The background remains consistent, featuring the gray asphalt surface without any additional elements or distractions. The focus stays on the person's lower legs and feet, emphasizing the soccer ball and the intricate footwork involved in the tricks. The video maintains a steady camera angle, capturing the continuous display of soccer skills without any noticeable changes in the environment or camera movement.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Basketball",
+            "Shoes"
+        ]
+    },
+    "multiobject_18": {
+        "img_paths": [
+            "Images/multiobject/french_fries/1.jpg",
+            "Images/multiobject/fry_machine/1.jpg"
+        ],
+        "prompt": "The video showcases the process of frying French fries in a commercial kitchen setting. It begins with a close-up of a metal fryer basket filled with golden, crispy French fries being lifted out of a fryer by a person wearing white gloves. The basket is held above a stainless steel fryer, which contains more fries submerged in hot oil. The person tilts the basket to drain excess oil from the fries, allowing it to drip back into the fryer. This action is repeated several times to ensure all the oil is drained. The background is dimly lit, focusing the viewer's attention on the frying process. The video emphasizes the meticulous care taken in preparing the fries, highlighting the importance of draining excess oil for the perfect texture and taste.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "French fries",
+            "Fry Machine"
+        ]
+    },
+    "multiobject_19": {
+        "img_paths": [
+            "Images/multiobject/robot/1.jpg",
+            "Images/multiobject/cake/1.jpg"
+        ],
+        "prompt": "The video features a thingoid robot with a shiny metallic finish, standing against a plain white background. The robot is holding a cupcake with chocolate frosting and a yellow cherry on top in its right hand. Throughout the video, the robot maintains a static pose, with no movement or change in its position. The cupcake remains in the robot's hand, and there are no alterations in the robot's posture or the environment. The background remains consistently white, and there are no additional elements introduced into the scene. The camera angle and perspective do not change, providing a continuous, unaltered view of the robot and the cupcake.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Robot",
+            "Cake"
+        ]
+    },
+    "multiobject_20": {
+        "img_paths": [
+            "Images/multiobject/flower/2.jpg",
+            "Images/multiobject/window/1.jpg"
+        ],
+        "prompt": "The video showcases a serene and static scene set on a windowsill, featuring two potted plants with lush green foliage and small flowers, flanking a white porcelain teapot. This arrangement is positioned against a backdrop of a window with multiple panes, through which a blurred view of a green, grassy outdoor area is visible. The scene is bathed in natural light, suggesting it is daytime. Throughout the video, there are no changes or movements observed in the arrangement of the potted plants and the teapot, nor in the background view or lighting conditions. The camera maintains a consistent angle and framing, capturing the tranquil and unchanging scene on the windowsill.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Flower",
+            "Window"
+        ]
+    },
+    "multiobject_21": {
+        "img_paths": [
+            "Images/multiobject/chiken/1.jpg",
+            "Images/multiobject/chiken/2.jpg"
+        ],
+        "prompt": "The video begins with a rooster and two hens standing on a grassy area in front of a wooden fence. The rooster, with its vibrant red comb and wattle, and a mix of brown and black feathers, is initially seen standing close to the hens, one of which has a mix of brown and white feathers, and the other is predominantly white. The rooster appears to be engaging with the hens, possibly mating, as it is positioned close to them. As the video progresses, the rooster moves slightly to the left, standing more upright and alert, while the hens remain in their positions, with the brown and white hen slightly turning its head towards the rooster. The white hen continues to face the fence. The rooster then takes a few steps forward, becoming more prominent in the frame, while the hens stay in their spots, with the brown and white hen turning its head further towards the rooster. The rooster eventually moves out of the frame, leaving the two hens in their original positions, with the brown and white hen still turned towards the fence and the white hen facing the fence directly. Throughout the video, the background remains consistent with the wooden fence and grassy area, and there is no significant camera movement, maintaining a steady focus on the birds and their interactions.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Chiken",
+            "Chiken"
+        ]
+    },
+    "multiobject_22": {
+        "img_paths": [
+            "Images/multiobject/pan/2.jpg",
+            "Images/multiobject/plate/1.jpg"
+        ],
+        "prompt": "The video begins with a close-up view of a kitchen stove featuring two black frying pans. The left pan is empty, while the right pan contains a small amount of oil. The stove's control knobs are visible, and the background includes a tiled wall and a countertop with various kitchen items. A hand appears, placing a plate of chopped yellow food, likely potatoes, into the right pan. The left pan is then shown with a piece of raw meat, possibly chicken, being placed into it. The hand uses a fork to adjust the meat in the left pan and the potatoes in the right pan. The stove's digital display shows the time as 14:40. The hand continues to adjust the food in both pans, ensuring even cooking.\n\nThe scene transitions to a close-up of the left pan, where the hand is seen using a fork to flip the now-cooked meat, revealing a browned surface. The stove's digital display still shows 14:40. The hand then moves to the right pan, stirring the chopped yellow food, likely potatoes, with a wooden spoon. The stove's control knobs and the tiled wall in the background remain visible. The hand continues to stir the potatoes in the right pan, ensuring they are evenly cooked. The video concludes with the hand still stirring the potatoes in the right pan, while the left pan remains empty.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Pan",
+            "Plate"
+        ]
+    },
+    "multiobject_23": {
+        "img_paths": [
+            "Images/multiobject/cup/9.jpg",
+            "Images/multiobject/cookie/1.jpg",
+            "Images/multiobject/flower/3.jpg"
+        ],
+        "prompt": "The video showcases a serene and static scene set on a wooden table. On the left side of the table, there is a plate filled with golden-brown, crescent-shaped cookies. To the right, a clear glass vase holds a bouquet of lilac flowers, adding a touch of natural beauty to the setting. In the foreground, a transparent glass teapot is seen pouring a golden liquid, presumably tea, into a matching glass cup. The pouring action is captured in detail, with the tea flowing smoothly from the teapot into the cup. Throughout the video, there are no significant changes or movements observed. The scene remains consistent, with the cookies, lilac flowers, and the act of pouring tea maintaining their positions and appearances. The camera angle and perspective do not change, providing a steady view of this tranquil moment.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Cup",
+            "Cookie",
+            "Flower"
+        ]
+    },
+    "multiobject_24": {
+        "img_paths": [
+            "Images/multiobject/person/1.jpg",
+            "Images/multiobject/hammer/1.jpg"
+        ],
+        "prompt": "The video depicts a scene set in a professional office environment, where two individuals are engaged in a formal discussion or consultation. The setting is characterized by a wooden desk adorned with a gavel, a stack of books, and a scale of justice, symbolizing a legal or judicial context. The person on the left, dressed in a dark suit and tie, is actively involved in the conversation, gesturing towards a document on the desk, indicating they are explaining or emphasizing specific points. This individual's hand movements suggest a dynamic interaction, possibly pointing out details or directing attention to particular sections of the document.\n\nAcross the desk, the second individual, also in formal attire, has their hands clasped together on the desk, a posture that conveys attentiveness and engagement in the discussion. The background features a window with partially drawn blinds, allowing natural light to illuminate the room, enhancing the professional atmosphere of the setting.\n\nThroughout the video, there are no significant changes in the scene or the actions of the individuals. The person on the left continues to gesture towards the document, maintaining the focus on the discussion at hand. The environment remains consistent, with the same objects on the desk and the natural lighting from the window, reinforcing the formal and professional nature of the interaction. The camera maintains a steady perspective, capturing the ongoing conversation without any noticeable movement or shift in viewpoint, ensuring a clear and uninterrupted view of the unfolding dialogue.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Person",
+            "Hammer"
+        ]
+    },
+    "multiobject_25": {
+        "img_paths": [
+            "Images/multiobject/dog/1.jpg",
+            "Images/multiobject/pot/1.jpg"
+        ],
+        "prompt": "The video begins with a black and white dog standing in a room with a wooden floor, facing a white plastic bowl. The dog appears to be in a state of anticipation or excitement, with its tail slightly raised and ears perked up. The background is blurred, but a wooden structure and a doorway are visible. As the video progresses, the dog moves closer to the bowl, showing more interest in it. The dog's posture becomes more relaxed, and it starts to lower its head towards the bowl. The dog then begins to eat from the bowl, with its head down and focused on the contents. Throughout the video, the dog's actions are the central focus, with the background remaining blurred and unchanged. The dog's movements are deliberate and focused on the bowl, indicating that it is engaged in eating.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Dog",
+            "Pot"
+        ]
+    },
+    "multiobject_26": {
+        "img_paths": [
+            "Images/multiobject/box/1.jpg",
+            "Images/multiobject/mouse/1.jpg"
+        ],
+        "prompt": "The video captures a serene outdoor scene featuring two squirrels interacting with a wooden crate. Initially, one squirrel is seen standing on the edge of the crate, while the other is inside, possibly foraging or exploring. The setting is natural, with grass and dirt in the background, suggesting a wild or semi-wild environment. As the video progresses, the squirrel on the edge of the crate leans forward, extending its front paws towards the interior, indicating a shift in its activity. Throughout the video, the background remains consistent, and the camera maintains a steady focus on the squirrels and their interaction with the crate, without any noticeable movement or change in perspective.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Box",
+            "Mouse"
+        ]
+    },
+    "multiobject_27": {
+        "img_paths": [
+            "Images/multiobject/chili_powder/1.jpg",
+            "Images/multiobject/garlic/1.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a glass bowl filled with a mound of red, granular spice, possibly paprika or chili powder, placed on a dark surface. Surrounding the bowl are various ingredients, including a partially sliced red onion, a clove of garlic, and a whole tomato, all slightly out of focus in the background. The scene is well-lit, highlighting the textures and colors of the ingredients. A hand holding a silver spoon enters the frame, scooping some of the spice from the bowl, indicating the beginning of a cooking process. The hand and spoon then move out of the frame, leaving the bowl and its contents undisturbed. The video continues with a similar close-up of the glass bowl and its surroundings, maintaining the same arrangement of ingredients. The hand with the silver spoon reappears, scooping more of the spice from the bowl, further suggesting the ongoing preparation of a dish. Throughout the video, the focus remains on the bowl and the ingredients, with no significant changes in the background or lighting, emphasizing the cooking process.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Chili powder",
+            "Garlic"
+        ]
+    },
+    "multiobject_28": {
+        "img_paths": [
+            "Images/multiobject/box/2.jpg",
+            "Images/multiobject/clock/1.jpg"
+        ],
+        "prompt": "The video begins with a close-up of a black analog alarm clock with a white face and black numbers, placed on a light-colored wooden floor. The clock shows the time as 10:10. The background features a blurred interior setting with a wooden structure on the left and a striped object on the right, possibly a piece of furniture or a curtain. The scene remains static, with no movement or changes in the environment. As the video progresses, the time on the clock changes to 10:11, indicating a minute has passed. The background and the position of the clock remain unchanged, maintaining the same static scene.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Box",
+            "Clock"
+        ]
+    },
+    "multiobject_29": {
+        "img_paths": [
+            "Images/multiobject/cat/1.jpg",
+            "Images/multiobject/cat/2.jpg"
+        ],
+        "prompt": "The video features two cats in a cozy indoor setting. Initially, a black and white cat is seen sitting on the floor, facing the camera, while a gray cat is partially visible on the right side of the frame. The background includes a wooden cabinet with glass doors displaying various items, a white radiator, and a decorative vase with dried branches. As the video progresses, the black and white cat begins to groom itself by licking its front paw, while the gray cat remains in its position, observing the other cat's actions. The scene remains consistent with the same background elements throughout. The black and white cat continues to groom itself, occasionally looking around, while the gray cat maintains its relaxed posture, occasionally shifting its gaze towards the black and white cat. The video captures a tranquil moment between the two cats, highlighting their calm demeanor and the serene environment they inhabit.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Cat",
+            "Cat"
+        ]
+    },
+    "multiobject_30": {
+        "img_paths": [
+            "Images/multiobject/sofa/2.jpg",
+            "Images/multiobject/desk/2.jpg"
+        ],
+        "prompt": "The video captures a cozy and inviting living room, with a stone fireplace as the centerpiece, its flames gently flickering in the hearth. The room is bathed in warm lighting, creating a comforting ambiance. The wooden floors and walls add to the rustic charm, while the furniture\u2014featuring a plush sofa, armchairs, a coffee table, and a side table with a lamp\u2014completes the space. A large window frames a scenic view of a wooded area outside, enhancing the room's natural appeal. The scene remains still, with no changes in the lighting or arrangement of furniture, while the camera offers a steady, unobtrusive perspective, emphasizing the tranquil atmosphere.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Sofa",
+            "Desk"
+        ]
+    }
+}

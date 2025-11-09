@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
   BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration
 </h1>
@@ -243,6 +242,8 @@ BindWeave achieves a solid score of 57.61 on the [OpenS2V-Eval](https://huggingf
 | [VACE-1.3B](https://github.com/ali-vilab/VACE) | 49.89% | 48.24% | 97.2% | 18.83% | 20.57% | 71.26% | 37.91% | 65.46% |
 | [VACE-P1.3B](https://github.com/ali-vilab/VACE) | 48.98% | 47.34% | 96.8% | 12.03% | 16.59% | 71.38% | 40.19% | 64.31% |
 
+## ⭐ Citation
+If you find BindWeave useful, please consider giving our repository a star (⭐) and citing our [paper](https://arxiv.org/pdf/2510.00438).
 
 ### BibTeX
 ```bibtex

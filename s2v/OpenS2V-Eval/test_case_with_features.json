@@ -1,0 +1,44 @@
+{
+    "faceobj_1": {
+        "img_paths": [
+            "Images/human.jpg",
+            "Images/dog.jpg",
+            "Images/school.jpg"
+        ],
+        "prompt": "A medium shot of a man with short dark hair and a warm smile, wearing a casual white collared shirt, kneeling on the dirt ground in front of an old yellow building. The building features faded walls, a rusted corrugated metal roof, and a weathered sign above the doorway reading \"THE FIRST PRIMARY SCHOOL IN NIGERIA FOUNDED IN 1845,\" with green tree branches partially framing the top of the frame. In front of him, a black Labrador retriever with shiny black fur, floppy ears, and bright brown eyes jumps up playfully, its front paws gently resting on his arm as he pets it. The dog's tail is wagging vigorously, and the scene is lit by soft, overcast daylight, casting natural shadows. The camera remains steady, capturing their joyful interaction with the historic building clearly visible in the background.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man",
+            "Dog",
+            "School"
+        ],
+        "hidden_states_path": "s2v/OpenS2V-Eval/hidden_states/faceobj_1_hidden_states.pt",
+        "hidden_states_path_negative": "s2v/OpenS2V-Eval/hidden_states/faceobj_1_hidden_states_negative.pt"
+    },
+    "singleface_1": {
+        "img_paths": [
+            "Images/man.png"
+        ],
+        "prompt": "The video features a young man standing outdoors in a snowy park. he is wearing a colorful winter jacket with a floral pattern and a white knit hat. The background shows a snowy landscape with trees, benches, and a metal fence. The ground is covered in snow, and there is a light snowfall in the air. The man appears to be enjoying the winter weather, as he smiles and gives a thumbs-up gesture towards the camera. The overall atmosphere of the video is cheerful and festive, capturing the beauty of a snowy day in a park.",
+        "synthesis_flag": "Wrong",
+        "class_label": [
+            "Man"
+        ],
+        "hidden_states_path": "s2v/OpenS2V-Eval/hidden_states/singleface_1_hidden_states.pt",
+        "hidden_states_path_negative": "s2v/OpenS2V-Eval/hidden_states/singleface_1_hidden_states_negative.pt"
+    },
+        "multihuman_14": {
+        "img_paths": [
+            "Images/woman1.jpg",
+            "Images/woman2.jpg"
+        ],
+        "prompt": "A static medium shot of two women seated side by side at a light-colored tablecloth-covered kitchen table in a modern, clean kitchen with white cabinets and a light-colored backsplash. On the left, a woman with long blonde hair wearing a soft pink top enthusiastically bites into a golden croissant, her eyes closed in enjoyment as she takes large, savoring bites; a plate with two more croissants and a blue mug sit before her. On the right, a woman with short dark hair in a white long-sleeve shirt under blue overalls holds a green apple in one hand, her brow slightly furrowed as she examines it, occasionally glancing at the blonde woman before refocusing on the fruit; a plate with three more green apples and a matching blue mug rest in front of her. Behind them, the counter features glass jars filled with cereals or dried fruits, a small potted plant adding a touch of greenery, and soft morning light illuminates the scene. The blonde woman occasionally pauses to take a sip from her mug, while the dark-haired woman slowly rotates the apple in her hand, creating a subtle, everyday dynamic between the two.",
+        "synthesis_flag": "True",
+        "class_label": [
+            "Woman",
+            "Woman"
+        ],
+        "hidden_states_path": "s2v/OpenS2V-Eval/hidden_states/multihuman_14_hidden_states.pt",
+        "hidden_states_path_negative": "s2v/OpenS2V-Eval/hidden_states/multihuman_14_hidden_states_negative.pt"
+    }
+}

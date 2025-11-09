@@ -71,15 +71,15 @@ huggingface-cli download Wan-AI/Wan2.1-I2V-14B-720P-Diffusers --local-dir ./pret
 ```
 Then download the BindWeave model:
 ```bash
-huggingface-cli download ByteDance/BindWeave --local-dir ./BindWeave
+huggingface-cli download ByteDance/BindWeave --local-dir ./BindWeave_14B
 ```
 
 #### Weight Conversion
 After downloading the BindWeave model, you need to convert the transformer weights to the MM format. Run the conversion script as follows:
 ```
 python convert_ckpt.py \
-  --source_path ./BindWeave/ \
-  --target_path ./BindWeave/ \
+  --source_path ./BindWeave_14B/ \
+  --target_path ./BindWeave_14B/ \
   --mode convert_to_mm
 ```
 
@@ -92,3 +92,51 @@ You can modify the corresponding paths in `'BindWeave/configs/inference/inferenc
 - `BASE_IMG_DIR`: Root directory of the reference images.
 - `META_PATH`: Sample JSON file used during inference.
 - `OUT_DIR`: Output directory for inference results.
+
+
+
+Using the provided sample cases (i.e., the default path configuration), running `bash script/inference_s2v.sh` will produce the following generated results:
+
+<table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid #ccc;">
+  <tr>
+    <th style="text-align: center;">
+      <strong>Reference Images</strong>
+    </th>
+    <th style="text-align: center;">
+      <strong>Generated Videos (720P)</strong>
+    </th>
+  </tr>
+
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="s2v/OpenS2V-Eval/Images/human.jpg" alt="Image 1" style="height: 120px;">
+      <img src="s2v/OpenS2V-Eval/Images/dog.jpg" alt="Image 2" style="height: 120px;">
+      <img src="s2v/OpenS2V-Eval/Images/school.jpg" alt="Image 2" style="height: 120px;">
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="/Users/bytedance/Desktop/BindWeave/s2v/OpenS2V-Eval/Results/faceobj.gif" alt="GIF 1" style="width: 400px;">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="s2v/OpenS2V-Eval/Images/man.png" alt="Image 1" style="height: 120px;">
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="/Users/bytedance/Desktop/BindWeave/s2v/OpenS2V-Eval/Results/singleface.gif" alt="GIF 1" style="width: 400px;">
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="s2v/OpenS2V-Eval/Images/woman1.jpg" alt="Image 1" style="height: 120px;">
+      <img src="s2v/OpenS2V-Eval/Images/woman2.jpg" alt="Image 1" style="height: 120px;">
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="/Users/bytedance/Desktop/BindWeave/s2v/OpenS2V-Eval/Results/multihuman.gif" alt="GIF 1" style="width: 400px;">
+    </td>
+  </tr>
+
+</table>
+
+> The GIF videos are compressed.

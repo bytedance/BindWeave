@@ -112,8 +112,8 @@ def main():
     patch_wan_r2v_pipeline()
 
 
-    meta_path = './Open-Domain_Eval.json'
-    base_img_dir = './OpenS2V-Eval'
+    meta_path = 's2v/OpenS2V-Eval/test_case.json'
+    base_img_dir = 's2v/OpenS2V-Eval'
     output_dir = './output'
     os.makedirs(output_dir, exist_ok=True)
 

@@ -30,7 +30,7 @@ export PYTHONPATH=$PYTHONPATH:`pwd`/MindSpeed-MM:`pwd`/MindSpeed:`pwd`Megatron-L
 
 MM_MODEL=${MM_MODEL:-'configs/inference/inference_model_s2v.json'}
 echo 'MM_MODEL', $MM_MODEL
-LOAD_PATH="./BindWeave/"  # 
+LOAD_PATH="./BindWeave_14B/"  # 
 
 DISTRIBUTED_ARGS="
     --nproc_per_node $NPUS_PER_NODE \

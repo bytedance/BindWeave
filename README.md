@@ -42,7 +42,7 @@
 <p>
 
 ## 🔥 News
-* Nov 08, 2025: 🔥 Thanks to **Kijai** for adapting [ComfyUI]((https://github.com/kijai/ComfyUI-WanVideoWrapper/tree/bindweave)) for BindWeave and providing an [FP8‑quantized Hugging Face model](https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/tree/main/Bindweave)! Feel free to try them out.
+* Nov 08, 2025: 🔥 Thanks to **Kijai** for adapting [ComfyUI](https://github.com/kijai/ComfyUI-WanVideoWrapper/tree/bindweave) for BindWeave and providing an [FP8‑quantized Hugging Face model](https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/tree/main/Bindweave)! Feel free to try them out.
 
 * Nov 04, 2025: 🔥 BindWeave-Wan-14B model is now available at [HuggingFace](https://huggingface.co/ByteDance/BindWeave)
 * Nov 04, 2025: 🔥 Released code for model inference and training.

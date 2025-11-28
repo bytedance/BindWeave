@@ -77,11 +77,7 @@ After switching, please consult the `README.md` file within that branch for deta
 
 This document outlines the specific inference workflow for the `infer` branch. To optimize memory usage, this process adopts an offline approach by pre-extracting and saving hidden states from the Qwen2.5-VL model before the main inference stage.
 
-The process is broken down into three main steps:
 
-1.  **Prompt Refinement**: Enhance the initial prompt to more accurately describe the subject in the reference image.
-2.  **Hidden States Extraction**: Extract and save the hidden states from Qwen2.5-VL.
-3.  **Inference**: Run the final inference, loading the pre-computed hidden states as part of the input. -->
 
 ## ⚡️ Quickstart
 
